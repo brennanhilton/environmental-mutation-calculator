@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+```{r}
+blah = input_genes %>% janitor::clean_names() %>%  pivot_longer(names_to = "disease", values_to = "gene", everything()) %>% left_join(all_gene_length) %>% filter(!is.na(Length)) %>% group_by(disease) %>% summarise(nucleotides = sum(Length))
+
+blah_cds = input_genes %>% janitor::clean_names() %>%  pivot_longer(names_to = "disease", values_to = "gene", everything()) %>% left_join(all_gene_length) %>% filter(!is.na(Length)) %>% group_by(disease) %>% filter(!is.na(cds_length)) %>% summarise(nucleotides = sum(cds_length))
+```
+

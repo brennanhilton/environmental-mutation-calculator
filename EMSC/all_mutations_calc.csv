@@ -1,0 +1,261 @@
+﻿chemical,disease,mutations
+Other,oral_cleft,19
+Metal,oral_cleft,3
+Nitro-PAH,oral_cleft,32
+PAH,oral_cleft,48
+ROS/NOS,oral_cleft,3
+Alkylating Agent,oral_cleft,21
+DNA Damage Response Inhibitors,oral_cleft,1
+Drug Therapy,oral_cleft,17
+Heterocyclic Amine,oral_cleft,5
+Aromatic Amine,oral_cleft,8
+Nitrosamine,oral_cleft,4
+Aldehydes,oral_cleft,3
+Radiation,oral_cleft,6
+Other,CHD,146
+Metal,CHD,29
+Nitro-PAH,CHD,246
+PAH,CHD,380
+ROS/NOS,CHD,26
+Alkylating Agent,CHD,169
+DNA Damage Response Inhibitors,CHD,12
+Drug Therapy,CHD,143
+Heterocyclic Amine,CHD,51
+Aromatic Amine,CHD,67
+Nitrosamine,CHD,9
+Aldehydes,CHD,27
+Radiation,CHD,60
+Other,autism,152
+Metal,autism,29
+Nitro-PAH,autism,203
+PAH,autism,343
+ROS/NOS,autism,29
+Alkylating Agent,autism,131
+DNA Damage Response Inhibitors,autism,9
+Drug Therapy,autism,163
+Heterocyclic Amine,autism,50
+Aromatic Amine,autism,64
+Nitrosamine,autism,5
+Aldehydes,autism,16
+Radiation,autism,50
+Other,als,11
+Metal,als,0
+Nitro-PAH,als,4
+PAH,als,15
+ROS/NOS,als,1
+Alkylating Agent,als,5
+DNA Damage Response Inhibitors,als,0
+Drug Therapy,als,10
+Heterocyclic Amine,als,2
+Aromatic Amine,als,0
+Nitrosamine,als,0
+Aldehydes,als,1
+Radiation,als,1
+Other,alzheimers,21
+Metal,alzheimers,5
+Nitro-PAH,alzheimers,23
+PAH,alzheimers,44
+ROS/NOS,alzheimers,2
+Alkylating Agent,alzheimers,12
+DNA Damage Response Inhibitors,alzheimers,1
+Drug Therapy,alzheimers,21
+Heterocyclic Amine,alzheimers,9
+Aromatic Amine,alzheimers,6
+Nitrosamine,alzheimers,0
+Aldehydes,alzheimers,5
+Radiation,alzheimers,9
+Other,adhd,40
+Metal,adhd,10
+Nitro-PAH,adhd,50
+PAH,adhd,81
+ROS/NOS,adhd,6
+Alkylating Agent,adhd,30
+DNA Damage Response Inhibitors,adhd,3
+Drug Therapy,adhd,34
+Heterocyclic Amine,adhd,16
+Aromatic Amine,adhd,17
+Nitrosamine,adhd,1
+Aldehydes,adhd,5
+Radiation,adhd,14
+Other,schizophrenia,175
+Metal,schizophrenia,57
+Nitro-PAH,schizophrenia,258
+PAH,schizophrenia,425
+ROS/NOS,schizophrenia,41
+Alkylating Agent,schizophrenia,173
+DNA Damage Response Inhibitors,schizophrenia,10
+Drug Therapy,schizophrenia,197
+Heterocyclic Amine,schizophrenia,60
+Aromatic Amine,schizophrenia,124
+Nitrosamine,schizophrenia,8
+Aldehydes,schizophrenia,23
+Radiation,schizophrenia,54
+Other,coronary artery,55
+Metal,coronary artery,10
+Nitro-PAH,coronary artery,66
+PAH,coronary artery,125
+ROS/NOS,coronary artery,8
+Alkylating Agent,coronary artery,54
+DNA Damage Response Inhibitors,coronary artery,2
+Drug Therapy,coronary artery,44
+Heterocyclic Amine,coronary artery,7
+Aromatic Amine,coronary artery,21
+Nitrosamine,coronary artery,3
+Aldehydes,coronary artery,4
+Radiation,coronary artery,13
+Other,obesity,169
+Metal,obesity,60
+Nitro-PAH,obesity,250
+PAH,obesity,377
+ROS/NOS,obesity,44
+Alkylating Agent,obesity,138
+DNA Damage Response Inhibitors,obesity,8
+Drug Therapy,obesity,202
+Heterocyclic Amine,obesity,60
+Aromatic Amine,obesity,81
+Nitrosamine,obesity,14
+Aldehydes,obesity,17
+Radiation,obesity,44
+Other,type 2 diabetes,75
+Metal,type 2 diabetes,22
+Nitro-PAH,type 2 diabetes,116
+PAH,type 2 diabetes,195
+ROS/NOS,type 2 diabetes,12
+Alkylating Agent,type 2 diabetes,63
+DNA Damage Response Inhibitors,type 2 diabetes,5
+Drug Therapy,type 2 diabetes,79
+Heterocyclic Amine,type 2 diabetes,29
+Aromatic Amine,type 2 diabetes,44
+Nitrosamine,type 2 diabetes,8
+Aldehydes,type 2 diabetes,15
+Radiation,type 2 diabetes,29
+Other,oral_cleft,2
+Metal,oral_cleft,0
+Nitro-PAH,oral_cleft,0
+PAH,oral_cleft,2
+ROS/NOS,oral_cleft,0
+Alkylating Agent,oral_cleft,0
+DNA Damage Response Inhibitors,oral_cleft,0
+Drug Therapy,oral_cleft,0
+Heterocyclic Amine,oral_cleft,0
+Aromatic Amine,oral_cleft,0
+Nitrosamine,oral_cleft,1
+Aldehydes,oral_cleft,0
+Radiation,oral_cleft,1
+Other,CHD,4
+Metal,CHD,0
+Nitro-PAH,CHD,10
+PAH,CHD,16
+ROS/NOS,CHD,0
+Alkylating Agent,CHD,10
+DNA Damage Response Inhibitors,CHD,0
+Drug Therapy,CHD,7
+Heterocyclic Amine,CHD,1
+Aromatic Amine,CHD,4
+Nitrosamine,CHD,1
+Aldehydes,CHD,0
+Radiation,CHD,3
+Other,autism,1
+Metal,autism,0
+Nitro-PAH,autism,1
+PAH,autism,8
+ROS/NOS,autism,0
+Alkylating Agent,autism,4
+DNA Damage Response Inhibitors,autism,0
+Drug Therapy,autism,1
+Heterocyclic Amine,autism,0
+Aromatic Amine,autism,1
+Nitrosamine,autism,0
+Aldehydes,autism,0
+Radiation,autism,0
+Other,als,2
+Metal,als,0
+Nitro-PAH,als,0
+PAH,als,2
+ROS/NOS,als,0
+Alkylating Agent,als,0
+DNA Damage Response Inhibitors,als,0
+Drug Therapy,als,0
+Heterocyclic Amine,als,0
+Aromatic Amine,als,0
+Nitrosamine,als,0
+Aldehydes,als,0
+Radiation,als,0
+Other,alzheimers,1
+Metal,alzheimers,0
+Nitro-PAH,alzheimers,0
+PAH,alzheimers,0
+ROS/NOS,alzheimers,0
+Alkylating Agent,alzheimers,0
+DNA Damage Response Inhibitors,alzheimers,0
+Drug Therapy,alzheimers,0
+Heterocyclic Amine,alzheimers,0
+Aromatic Amine,alzheimers,0
+Nitrosamine,alzheimers,0
+Aldehydes,alzheimers,0
+Radiation,alzheimers,0
+Other,adhd,0
+Metal,adhd,0
+Nitro-PAH,adhd,0
+PAH,adhd,1
+ROS/NOS,adhd,0
+Alkylating Agent,adhd,1
+DNA Damage Response Inhibitors,adhd,0
+Drug Therapy,adhd,0
+Heterocyclic Amine,adhd,0
+Aromatic Amine,adhd,0
+Nitrosamine,adhd,0
+Aldehydes,adhd,0
+Radiation,adhd,0
+Other,schizophrenia,1
+Metal,schizophrenia,0
+Nitro-PAH,schizophrenia,2
+PAH,schizophrenia,7
+ROS/NOS,schizophrenia,1
+Alkylating Agent,schizophrenia,2
+DNA Damage Response Inhibitors,schizophrenia,0
+Drug Therapy,schizophrenia,1
+Heterocyclic Amine,schizophrenia,0
+Aromatic Amine,schizophrenia,2
+Nitrosamine,schizophrenia,0
+Aldehydes,schizophrenia,0
+Radiation,schizophrenia,0
+Other,coronary artery,1
+Metal,coronary artery,0
+Nitro-PAH,coronary artery,0
+PAH,coronary artery,5
+ROS/NOS,coronary artery,0
+Alkylating Agent,coronary artery,0
+DNA Damage Response Inhibitors,coronary artery,0
+Drug Therapy,coronary artery,0
+Heterocyclic Amine,coronary artery,0
+Aromatic Amine,coronary artery,0
+Nitrosamine,coronary artery,0
+Aldehydes,coronary artery,0
+Radiation,coronary artery,0
+Other,obesity,3
+Metal,obesity,0
+Nitro-PAH,obesity,0
+PAH,obesity,1
+ROS/NOS,obesity,0
+Alkylating Agent,obesity,1
+DNA Damage Response Inhibitors,obesity,0
+Drug Therapy,obesity,2
+Heterocyclic Amine,obesity,0
+Aromatic Amine,obesity,1
+Nitrosamine,obesity,0
+Aldehydes,obesity,0
+Radiation,obesity,0
+Other,type 2 diabetes,1
+Metal,type 2 diabetes,1
+Nitro-PAH,type 2 diabetes,0
+PAH,type 2 diabetes,3
+ROS/NOS,type 2 diabetes,0
+Alkylating Agent,type 2 diabetes,0
+DNA Damage Response Inhibitors,type 2 diabetes,0
+Drug Therapy,type 2 diabetes,0
+Heterocyclic Amine,type 2 diabetes,0
+Aromatic Amine,type 2 diabetes,0
+Nitrosamine,type 2 diabetes,0
+Aldehydes,type 2 diabetes,0
+Radiation,type 2 diabetes,0
