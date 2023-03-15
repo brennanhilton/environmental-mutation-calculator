@@ -1,0 +1,13 @@
+name: emsc
+title:
+username:
+account: msph
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4214927
+bundleId: 6963369
+url: https://msph.shinyapps.io/emsc/
+when: 1678917679.79615
+lastSyncTime: 1678917679.79615
+asMultiple: FALSE
+asStatic: FALSE

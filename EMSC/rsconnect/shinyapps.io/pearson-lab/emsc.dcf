@@ -1,0 +1,11 @@
+name: emsc
+title:
+username:
+account: pearson-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5334277
+bundleId: 5378254
+url: https://pearson-lab.shinyapps.io/emsc/
+when: 1639615494.8101
+lastSyncTime: 1639615494.8111
