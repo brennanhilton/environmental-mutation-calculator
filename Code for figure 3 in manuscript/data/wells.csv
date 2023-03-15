@@ -1,0 +1,295 @@
+group,chem,dose,replicate
+Other,Furan,(100,s3
+Metal,Cobalt,(II),s5
+Nitro-PAH,6-Nitrochrysene,(0.78,s1
+Nitro-PAH,3-NBA,(0.1,s3
+Other,OTA,(0.08,s1
+PAH,DBC,(3.5,s1
+Nitro-PAH,6-Nitrochrysene,(50,s1
+PAH,BPDE,(0.125,s1
+PAH,DBADE,(0.0313,s3
+PAH,DBADE,(0.109,s1
+ROS/NOS,Potassium,bromate,s1
+Alkylating Agent,DMH,(11.6,s3
+PAH,5-Methylchrysene,(1.6,s1
+DNA Damage Response Inhibitors,AZ20,(0.9375,s2
+Nitro-PAH,"1,8-DNP",(0.125,s2
+PAH,DBADE,(0.0313,s2
+ROS/NOS,Potassium,bromate,s5
+PAH,DBADE,(0.0313,s1
+Nitro-PAH,2-Nitrofluorene,(40,s2
+Other,Methyleugenol,(1.25,s3
+Other,AFB1,(0.25,s1
+Nitro-PAH,6-Nitrochrysene,(0.78,s5
+DNA Damage Response Inhibitors,AZD7762,(1.625,s1
+Alkylating Agent,MNU,(350,s1
+PAH,DBPDE,(0.000625,s3
+Other,Styrene,oxide,s5
+Alkylating Agent,ENU,(400,s1
+Drug Therapy,Ellipticine,(0.625,s2
+Metal,Nickel,(II),s1
+Control,Media,Control,s4
+Heterocyclic Amine,PhIP,(3,s1
+Alkylating Agent,ENU,(400,s3
+Alkylating Agent,DMS,(0.078,s3
+Nitro-PAH,3-NBA,(0.025,s2
+Aromatic Amine,Benzidine,(200,s3
+Aromatic Amine,MOCA,(37.5,s3
+Nitro-PAH,3-NBA,(0.1,s2
+PAH,5-Methylchrysene,(1.6,s3
+PAH,DBPDE,(0.000625,s1
+Other,AAI,(1.25,s3
+Aromatic Amine,o-Anisidine,(0.85,s5
+Nitro-PAH,6-Nitrochrysene,(50,s2
+PAH,BaP,(0.39,s1
+Drug Therapy,Semustine,(700,s3
+Heterocyclic Amine,MeAaC,(70,s2
+Nitro-PAH,"1,8-DNP",(8,s1
+PAH,BPDE,(0.125,s3
+Aromatic Amine,Benzidine,(200,s2
+Drug Therapy,Cisplatin,(3.125,s5
+Drug Therapy,Temozolomide,(200,s2
+Aromatic Amine,Benzidine,(900,s1
+Nitro-PAH,"1,8-DNP",(8,s2
+DNA Damage Response Inhibitors,AZD7762,(1.625,s2
+PAH,DBADE,(0.109,s5
+Aromatic Amine,2-Naphthylamine,(200,s2
+Alkylating Agent,DMH,(11.6,s2
+PAH,BPDE,(0.125,s2
+Aromatic Amine,"2,6-Dimethylaniline",(11,s1
+Heterocyclic Amine,PhIP,(4,s3
+Nitro-PAH,"1,6-DNP",(0.09,s1
+Other,Catechol,(5.5,s2
+Drug Therapy,Bleomycin,(0.188,s2
+Aromatic Amine,Benzidine,(900,s2
+Alkylating Agent,MNU,(350,s3
+Aromatic Amine,MOCA,(37.5,s1
+ROS/NOS,Potassium,bromate,s4
+Control,DMSO,Control,s1
+Metal,Lead,(II),s1
+Aromatic Amine,MOCA,(37.5,s2
+Drug Therapy,Cyclophosphamide,(18.75,s2
+Control,Media,Control,s2
+Nitrosamine,N-Nitrosopyrrolidine,(50,s2
+Drug Therapy,Semustine,(150,s1
+Nitro-PAH,2-Nitrofluorene,(10,s2
+Other,"1,4-Benzoquinone",(5,s3
+Aldehydes,Formaldehyde,(120,s1
+Drug Therapy,Ellipticine,(0.375,s4
+Nitro-PAH,6-Nitrochrysene,(0.78,s2
+Radiation,Gamma,irradiation,s1
+Alkylating Agent,DMS,(0.078,s1
+Aromatic Amine,"2,6-Dimethylaniline",(3.8,s2
+Drug Therapy,Mitomycin,C,s1
+Nitro-PAH,"1,8-DNP",(0.125,s1
+Aromatic Amine,MOCA,(5,s2
+Other,MX,(7,s4
+Control,NaCl,Control,s2
+PAH,DBA,(75,s1
+Other,MX,(7,s2
+Radiation,SSR,(1.25,s5
+Control,H2O,Control,s2
+PAH,DBA,(75,s2
+Drug Therapy,Ellipticine,(0.375,s2
+Drug Therapy,Cyclophosphamide,(18.75,s1
+Heterocyclic Amine,PhIP,(4,s4
+Other,Acrylamide,(9.5,s2
+PAH,DBPDE,(0.000156,s1
+Control,MeOH,Control,s3
+Drug Therapy,Cyclophosphamide,(60,s2
+Nitro-PAH,2-Nitrofluorene,(40,s1
+PAH,DBP,(0.0313,s2
+Heterocyclic Amine,PhIP,(4,s5
+Drug Therapy,Ellipticine,(0.625,s1
+PAH,DBADE,(0.109,s6
+Aromatic Amine,2-Naphthylamine,(200,s3
+Control,DMSO,Control,s6
+Drug Therapy,Ellipticine,(0.125,s5
+Alkylating Agent,DES,(0.938,s3
+PAH,5-Methylchrysene,(1.6,s2
+Other,MX,(2.5,s5
+Aromatic Amine,2-Naphthylamine,(200,s1
+Other,Furan,(100,s2
+Alkylating Agent,DMH,(11.6,s1
+Aldehydes,Formaldehyde,(85.5,s1
+PAH,DBPDE,(0.000625,s2
+Aromatic Amine,4-ABP,(300,s2
+Heterocyclic Amine,MeIQX,(300,s4
+PAH,BaP,(0.39,s2
+Alkylating Agent,MMS,(100,s3
+Nitro-PAH,"1,8-DNP",(0.125,s3
+PAH,DBP,(0.0313,s3
+Drug Therapy,Ellipticine,(0.375,s1
+Alkylating Agent,DES,(0.938,s1
+Nitro-PAH,"1,8-DNP",(8,s3
+Radiation,SSR,(1.25,s4
+Other,Methyleugenol,(1.9,s2
+Control,H2O,Control,s1
+Drug Therapy,Melphalan,(1.5,s1
+Aldehydes,Formaldehyde,(120,s3
+Other,Styrene,oxide,s6
+Control,DMSO,Control,s2
+PAH,DBP,(0.0313,s1
+ROS/NOS,H2O2,(24.5,s1
+Control,Media,Control,s3
+Aldehydes,Acetaldehyde,(12,s1
+Drug Therapy,Melphalan,(1.5,s2
+Drug Therapy,Mechlorethamine,(0.3,s2
+PAH,DBPDE,(0.000156,s2
+Aromatic Amine,Benzidine,(900,s3
+Drug Therapy,Carboplatin,(5,s3
+Drug Therapy,Semustine,(150,s3
+Other,Acrolein,(5,s2
+Other,Propylene,oxide,s2
+Aromatic Amine,2-Naphthylamine,(200,s5
+Control,MeOH,Control,s2
+Radiation,SSR,(1.25,s6
+Metal,Cadmium,chloride,s1
+DNA Damage Response Inhibitors,AZ20,(0.9375,s1
+PAH,BaP,(0.39,s3
+Drug Therapy,Cisplatin,(12.5,s2
+PAH,DBC,(3.5,s2
+Drug Therapy,Cisplatin,(12.5,s3
+Alkylating Agent,DMH,(9,s1
+Nitro-PAH,1-Nitropyrene,(2.5,s1
+Alkylating Agent,DES,(0.938,s2
+Heterocyclic Amine,PhIP,(3,s4
+Other,AAII,(37.5,s6
+Drug Therapy,Olaparib,(0.625,s2
+Control,Media,Control,s1
+Other,Styrene,oxide,s4
+Drug Therapy,Ellipticine,(0.375,s3
+Metal,Sodium,(meta),s3
+Drug Therapy,Ellipticine,(0.25,s2
+Aromatic Amine,o-Anisidine,(0.85,s1
+Other,Acrylamide,(9.5,s1
+Heterocyclic Amine,PhIP,(3,s3
+ROS/NOS,Peroxynitrite,(30,s2
+Nitro-PAH,1-Nitropyrene,(2.5,s2
+Nitro-PAH,6-Nitrochrysene,(12.5,s3
+Other,AAI,(1.25,s1
+Drug Therapy,Etoposide,(0.0188,s2
+ROS/NOS,Potassium,bromate,s3
+Nitro-PAH,3-NBA,(0.025,s1
+Control,DMSO,Control,s3
+Other,Sudan,I,s2
+Drug Therapy,Temozolomide,(200,s1
+Other,Methyleugenol,(1.9,s1
+Alkylating Agent,MMS,(100,s1
+Drug Therapy,Mitomycin,C,s2
+Aromatic Amine,o-Anisidine,(6,s2
+Alkylating Agent,DMH,(9,s3
+Aromatic Amine,"2,6-Dimethylaniline",(3.8,s1
+Aromatic Amine,"2,6-Dimethylaniline",(11,s2
+Alkylating Agent,MNU,(350,s2
+Other,Sudan,I,s1
+Nitro-PAH,"1,6-DNP",(0.09,s3
+Alkylating Agent,ENU,(400,s4
+Other,"1,4-Benzoquinone",(5,s1
+Drug Therapy,Etoposide,(0.0188,s1
+Drug Therapy,Carboplatin,(5,s2
+Heterocyclic Amine,MeIQX,(300,s1
+Aromatic Amine,Benzidine,(200,s1
+Metal,Cobalt,(II),s1
+Radiation,Gamma,irradiation,s2
+Other,Propylene,oxide,s3
+Metal,Lead,(II),s3
+Heterocyclic Amine,MeIQX,(300,s3
+Drug Therapy,Cisplatin,(12.5,s1
+Aromatic Amine,2-Naphthylamine,(200,s4
+Drug Therapy,Ellipticine,(0.125,s1
+Drug Therapy,Mitomycin,C,s3
+Drug Therapy,Temozolomide,(200,s3
+Metal,Nickel,(II),s4
+Heterocyclic Amine,IQ,(450,s2
+Drug Therapy,Mechlorethamine,(0.3,s1
+Nitro-PAH,2-Nitrofluorene,(10,s1
+Alkylating Agent,MNNG,(0.75,s3
+Other,AAII,(37.5,s4
+Aromatic Amine,o-Toluidine,(14,s1
+Other,Methyleugenol,(1.9,s3
+Nitro-PAH,1-Nitropyrene,(1.75,s1
+PAH,DBAC,(5,s2
+PAH,DBAC,(5,s1
+Other,Acrolein,(5,s1
+Metal,Potassium,chromate,s2
+Other,Propylene,oxide,s1
+Alkylating Agent,DMS,(0.078,s2
+Drug Therapy,Olaparib,(0.625,s3
+Nitro-PAH,"1,6-DNP",(0.09,s2
+Aromatic Amine,4-ABP,(300,s1
+Heterocyclic Amine,IQ,(450,s1
+Drug Therapy,Cyclophosphamide,(60,s1
+PAH,DBP,(0.0039,s4
+PAH,DBC,(1.5,s2
+Aldehydes,Formaldehyde,(120,s2
+Control,NaCl,Control,s1
+PAH,DBP,(0.0039,s1
+Nitrosamine,N-Nitrosopyrrolidine,(50,s3
+Aromatic Amine,o-Anisidine,(6,s1
+Other,AAI,(1.25,s2
+Drug Therapy,Cisplatin,(3.125,s6
+Aromatic Amine,2-Naphthylamine,(400,s1
+Aldehydes,Acetaldehyde,(0.9,s1
+Aromatic Amine,4-ABP,(40,s1
+PAH,BaP,(2,s3
+Nitro-PAH,1-Nitropyrene,(1.75,s2
+PAH,DBP,(0.0039,s3
+Drug Therapy,Bleomycin,(0.188,s1
+Other,Glycidamide,(475,s6
+Aldehydes,Acetaldehyde,(12,s3
+Control,MeOH,Control,s1
+Drug Therapy,Semustine,(150,s2
+Drug Therapy,Semustine,(700,s2
+PAH,DBAC,(5,s3
+PAH,DBC,(1.5,s1
+Nitro-PAH,6-Nitrochrysene,(12.5,s1
+Metal,Potassium,chromate,s6
+Aromatic Amine,o-Toluidine,(14,s3
+PAH,BaP,(2,s2
+Nitro-PAH,6-Nitrochrysene,(12.5,s2
+Other,MX,(7,s1
+Drug Therapy,Cisplatin,(3.125,s4
+Other,Glycidamide,(475,s2
+Drug Therapy,Camptothecin,(0.0063,s1
+Drug Therapy,Camptothecin,(0.0063,s2
+Aldehydes,Formaldehyde,(85.5,s3
+Drug Therapy,Melphalan,(1.5,s3
+Other,Glycidamide,(475,s5
+Nitro-PAH,3-NBA,(0.1,s4
+Heterocyclic Amine,PhIP,(3,s2
+Other,OTA,(0.08,s2
+Nitro-PAH,2-Nitrotoluene,(4.6,s2
+Other,Methyleugenol,(1.25,s2
+PAH,DBA,(75,s3
+Aromatic Amine,4-ABP,(40,s2
+PAH,DBC,(1.5,s3
+PAH,DBPDE,(0.000156,s3
+Metal,Sodium,(meta),s5
+Metal,Lead,(II),s2
+Other,AAII,(37.5,s5
+Drug Therapy,Carboplatin,(5,s1
+Drug Therapy,Semustine,(700,s1
+Other,Furan,(100,s1
+Nitro-PAH,3-NBA,(0.025,s3
+ROS/NOS,Peroxynitrite,(30,s1
+Metal,Nickel,(II),s2
+Aromatic Amine,MOCA,(5,s1
+Aromatic Amine,2-Naphthylamine,(400,s2
+PAH,BaP,(2,s1
+Metal,Cadmium,chloride,s2
+ROS/NOS,H2O2,(24.5,s2
+Nitro-PAH,2-Nitrotoluene,(4.6,s1
+Aldehydes,Formaldehyde,(85.5,s2
+Nitrosamine,N-Nitrosopyrrolidine,(50,s1
+Other,Catechol,(5.5,s1
+Nitro-PAH,2-Nitrofluorene,(40,s3
+Drug Therapy,Mechlorethamine,(0.3,s3
+Drug Therapy,Ellipticine,(0.25,s1
+Other,AFB1,(0.25,s2
+Other,Methyleugenol,(1.25,s1
+Heterocyclic Amine,MeAaC,(70,s1
+Aldehydes,Acetaldehyde,(0.9,s2
+Metal,Sodium,(meta),s1
+Other,MX,(2.5,s1
+Alkylating Agent,MNNG,(0.75,s2

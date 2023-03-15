@@ -1,0 +1,2062 @@
+group,chem,dose,replicate,gene
+Radiation,SSR,1.25,s6,SAMD11
+Radiation,SSR,1.25,s6,B3GALT6
+Aromatic Amine,2-Naphthylamine,200,s2,UBE2J2
+Aromatic Amine,o-Anisidine,6,s1,CCNL2
+Control,NaCl,ontrol,s1,ANKRD65
+Other,Propylene,xide,s1,TMEM88B
+Radiation,SSR,1.25,s4,VWA1
+Drug Therapy,Semustine,150,s1,SSU72
+Radiation,SSR,1.25,s5,SSU72
+PAH,DBADE,0.109,s1,SLC35E2B
+PAH,BaP,0.39,s3,MMEL1
+Other,Catechol,5.5,s1,ACTRT2
+Aromatic Amine,"2,6-Dimethylaniline",11,s1,PRDM16
+PAH,BPDE,0.125,s3,TP73
+Radiation,SSR,1.25,s5,CCDC27
+Nitro-PAH,"1,8-DNP",0.125,s2,LRRC47
+PAH,DBA,75,s1,LRRC47
+PAH,DBPDE,0.000625,s3,TAS1R1
+Nitro-PAH,2-Nitrofluorene,40,s3,KLHL21
+Drug Therapy,Cyclophosphamide,60,s2,CAMTA1
+Alkylating Agent,DES,0.938,s2,SLC2A5
+PAH,5-Methylchrysene,1.6,s3,CASZ1
+Drug Therapy,Temozolomide,200,s2,CASZ1
+Drug Therapy,Etoposide,0.0188,s1,PTCHD2
+Control,Media,ontrol,s2,DRAXIN
+PAH,BPDE,0.125,s1,PRAMEF2
+Drug Therapy,Ellipticine,0.625,s2,PRAMEF17
+Drug Therapy,Temozolomide,200,s2,FHAD1
+Radiation,SSR,1.25,s4,CASP9
+PAH,5-Methylchrysene,1.6,s3,DDI2
+Radiation,SSR,1.25,s4,SPEN
+PAH,DBADE,0.109,s5,ARHGEF19
+Drug Therapy,Ellipticine,0.375,s1,CROCC
+Alkylating Agent,ENU,400,s1,ATP13A2
+Radiation,SSR,1.25,s6,RCC2
+Radiation,SSR,1.25,s6,RCC2
+Control,DMSO,ontrol,s1,RNF186
+Nitro-PAH,3-NBA,0.025,s2,PLA2G2F
+Alkylating Agent,DMH,11.6,s3,MUL1
+Nitro-PAH,6-Nitrochrysene,50,s1,SH2D5
+Drug Therapy,Cisplatin,3.125,s5,RAP1GAP
+Nitro-PAH,3-NBA,0.1,s4,HSPG2
+Other,AAII,37.5,s5,WNT4
+Drug Therapy,Temozolomide,200,s1,EPHA8
+PAH,DBADE,0.109,s6,RPL11
+Drug Therapy,Ellipticine,0.25,s1,LYPLA2
+Alkylating Agent,DMH,11.6,s1,MYOM3
+Other,Styrene,xide,s6,GRHL3
+Other,MX,7,s1,RHCE
+Drug Therapy,Etoposide,0.0188,s1,PAFAH2
+Other,Propylene,xide,s3,CEP85
+Control,Media,ontrol,s4,AIM1L
+PAH,5-Methylchrysene,1.6,s3,RPS6KA1
+PAH,DBA,75,s1,ARID1A
+Radiation,SSR,1.25,s4,SLC9A1
+Radiation,SSR,1.25,s6,MAP3K6
+Drug Therapy,Olaparib,0.625,s3,WASF2
+Nitro-PAH,6-Nitrochrysene,50,s1,SRSF4
+Other,AAI,1.25,s1,HCRTR1
+PAH,DBADE,0.109,s1,PTP4A2
+Radiation,SSR,1.25,s4,KHDRBS1
+Radiation,SSR,1.25,s4,KHDRBS1
+Nitro-PAH,3-NBA,0.025,s3,TXLNA
+ROS/NOS,Potassium,romate,s5,TSSK3
+Alkylating Agent,ENU,400,s4,RBBP4
+PAH,BaP,2,s2,ADC
+PAH,DBADE,0.0313,s3,ZNF362
+PAH,BPDE,0.125,s1,CSMD2
+Nitro-PAH,2-Nitrotoluene,4.6,s2,CSMD2
+Other,Methyleugenol,1.25,s1,CLSPN
+Radiation,SSR,1.25,s4,AGO3
+Nitro-PAH,"1,8-DNP",8,s3,MAP7D1
+PAH,DBADE,0.0313,s3,MAP7D1
+PAH,DBADE,0.109,s6,SH3D21
+Alkylating Agent,DMH,11.6,s1,ZC3H12A
+Nitro-PAH,6-Nitrochrysene,50,s2,GNL2
+Aromatic Amine,o-Toluidine,14,s3,EPHA10
+PAH,DBADE,0.109,s1,MACF1
+Other,AAI,1.25,s3,MACF1
+PAH,DBPDE,0.000625,s2,PABPC4
+PAH,BPDE,0.125,s2,OXCT2
+Drug Therapy,Etoposide,0.0188,s1,OXCT2
+PAH,DBADE,0.109,s6,MFSD2A
+PAH,DBADE,0.0313,s2,SZT2
+Control,DMSO,ontrol,s3,PTPRF
+PAH,DBADE,0.109,s5,SLC6A9
+Nitro-PAH,1-Nitropyrene,2.5,s2,DMAP1
+PAH,DBPDE,0.000625,s1,IPP
+Nitro-PAH,6-Nitrochrysene,50,s2,UQCRH
+Drug Therapy,Carboplatin,5,s1,CYP4A11
+Nitro-PAH,6-Nitrochrysene,50,s1,STIL
+Metal,Sodium,meta),s5,ZFYVE9
+PAH,DBPDE,0.000625,s1,SCP2
+Control,DMSO,ontrol,s2,GLIS1
+Nitro-PAH,6-Nitrochrysene,50,s2,NDC1
+PAH,DBADE,0.109,s1,USP24
+Aldehydes,Formaldehyde,120,s3,C8B
+Other,AAI,1.25,s3,SLC44A5
+Drug Therapy,Temozolomide,200,s2,GIPC2
+PAH,DBADE,0.109,s1,LPHN2
+Other,Sudan,,s2,BRDT
+Other,Acrylamide,9.5,s1,EPHX4
+Radiation,SSR,1.25,s4,KIAA1107
+Drug Therapy,Temozolomide,200,s2,GFI1
+Metal,Sodium,meta),s5,FNBP1L
+Aldehydes,Formaldehyde,120,s3,BCAR3
+PAH,DBADE,0.0313,s1,BCAR3
+Drug Therapy,Semustine,150,s1,COL11A1
+Radiation,SSR,1.25,s4,STXBP3
+Drug Therapy,Mechlorethamine,0.3,s2,PSRC1
+PAH,DBADE,0.109,s6,SORT1
+Drug Therapy,Semustine,150,s3,STRIP1
+Other,Acrolein,5,s2,STRIP1
+PAH,DBADE,0.109,s1,SYT6
+Alkylating Agent,MNU,350,s1,AMPD1
+PAH,BPDE,0.125,s1,SLC22A15
+Alkylating Agent,DMH,11.6,s1,CD58
+PAH,DBADE,0.109,s1,PTGFRN
+Aromatic Amine,o-Anisidine,6,s2,PTGFRN
+Nitro-PAH,6-Nitrochrysene,0.78,s2,TBX15
+PAH,BPDE,0.125,s1,ZNF697
+PAH,DBADE,0.0313,s3,ADAM30
+Drug Therapy,Semustine,150,s2,BCL9
+Drug Therapy,Semustine,150,s2,BCL9
+PAH,DBADE,0.0313,s3,ANP32E
+PAH,DBADE,0.109,s6,MRPS21
+PAH,DBAC,5,s2,ANXA9
+PAH,DBADE,0.109,s6,CGN
+Nitro-PAH,6-Nitrochrysene,50,s1,CELF3
+Nitro-PAH,"1,8-DNP",8,s3,TCHHL1
+PAH,BPDE,0.125,s1,TCHH
+PAH,DBADE,0.109,s5,RPTN
+PAH,DBADE,0.109,s6,FLG
+Heterocyclic Amine,PhIP,3,s2,FLG
+PAH,DBPDE,0.000156,s2,FLG
+PAH,BaP,0.39,s1,FLG
+Drug Therapy,Mitomycin,,s2,CRNN
+Nitro-PAH,2-Nitrotoluene,4.6,s2,LCE2B
+ROS/NOS,Peroxynitrite,30,s2,NPR1
+Other,Propylene,xide,s3,NUP210L
+PAH,BaP,0.39,s3,NUP210L
+Radiation,SSR,1.25,s5,NUP210L
+PAH,BPDE,0.125,s1,IL6R
+PAH,DBPDE,0.000156,s3,CHRNB2
+PAH,DBADE,0.0313,s1,FAM189B
+Nitro-PAH,2-Nitrofluorene,10,s2,CLK2
+Heterocyclic Amine,PhIP,4,s4,HCN3
+Metal,Lead,II),s2,HCN3
+PAH,DBP,0.0313,s2,MSTO1
+Nitro-PAH,3-NBA,0.1,s3,GON4L
+PAH,5-Methylchrysene,1.6,s1,SSR2
+PAH,DBPDE,0.000625,s3,NES
+PAH,BPDE,0.125,s1,INSRR
+Alkylating Agent,DES,0.938,s3,CD1A
+Alkylating Agent,MNU,350,s3,SPTA1
+Nitro-PAH,6-Nitrochrysene,0.78,s2,IFI16
+Control,DMSO,ontrol,s1,CCDC19
+Metal,Sodium,meta),s3,IGSF8
+Aldehydes,Formaldehyde,120,s1,RGS4
+Alkylating Agent,DMH,11.6,s2,ILDR2
+Drug Therapy,Semustine,150,s1,GORAB
+Drug Therapy,Ellipticine,0.125,s1,C1orf105
+Nitro-PAH,3-NBA,0.025,s2,RC3H1
+Drug Therapy,Bleomycin,0.188,s1,SEC16B
+Metal,Cadmium,hloride,s2,SOAT1
+Other,Methyleugenol,1.25,s1,CEP350
+Alkylating Agent,DMS,0.078,s2,XPR1
+Nitro-PAH,"1,6-DNP",0.09,s1,CACNA1E
+Metal,Nickel,II),s2,RGS8
+Heterocyclic Amine,PhIP,3,s2,RGL1
+Nitro-PAH,"1,8-DNP",0.125,s2,FAM129A
+PAH,DBADE,0.109,s6,HMCN1
+Alkylating Agent,MNU,350,s1,C1orf27
+Drug Therapy,Cisplatin,12.5,s1,RGS21
+Control,H2O,ontrol,s2,CFH
+Alkylating Agent,DES,0.938,s3,ASPM
+Nitro-PAH,6-Nitrochrysene,50,s2,ASPM
+Aromatic Amine,Benzidine,900,s1,CRB1
+Alkylating Agent,DES,0.938,s2,GPR25
+PAH,5-Methylchrysene,1.6,s2,TMEM9
+PAH,BPDE,0.125,s1,TMEM9
+PAH,DBADE,0.109,s5,IGFN1
+PAH,DBADE,0.0313,s3,IGFN1
+PAH,DBA,75,s1,LAD1
+PAH,DBADE,0.109,s6,PPP1R12B
+Control,DMSO,ontrol,s2,PPP1R12B
+Other,AAII,37.5,s5,REN
+Drug Therapy,Temozolomide,200,s2,NFASC
+PAH,DBADE,0.0313,s2,SLC45A3
+Aromatic Amine,o-Anisidine,0.85,s1,FAIM3
+Drug Therapy,Ellipticine,0.125,s5,LAMB3
+Control,MeOH,ontrol,s2,FAM71A
+Alkylating Agent,ENU,400,s1,PTPN14
+PAH,BPDE,0.125,s3,USH2A
+Other,Propylene,xide,s1,USH2A
+PAH,5-Methylchrysene,1.6,s1,GPATCH2
+PAH,DBADE,0.109,s1,SLC30A10
+Alkylating Agent,DMH,11.6,s1,DISP1
+PAH,DBADE,0.0313,s2,DNAH14
+Radiation,SSR,1.25,s4,DNAH14
+Radiation,SSR,1.25,s4,DNAH14
+Alkylating Agent,DMS,0.078,s2,ENAH
+Nitro-PAH,3-NBA,0.1,s2,ITPKB
+Other,Glycidamide,475,s2,ZNF678
+Alkylating Agent,MMS,100,s1,IBA57
+Nitro-PAH,6-Nitrochrysene,50,s2,OBSCN
+PAH,BaP,0.39,s1,OBSCN
+PAH,BaP,2,s2,OBSCN
+Other,Furan,100,s2,OBSCN
+Drug Therapy,Temozolomide,200,s2,NUP133
+PAH,5-Methylchrysene,1.6,s1,URB2
+Other,AAI,1.25,s1,C1orf131
+Alkylating Agent,DES,0.938,s1,EXOC8
+Nitro-PAH,6-Nitrochrysene,0.78,s2,PCNXL2
+Drug Therapy,Temozolomide,200,s1,EXO1
+Alkylating Agent,MNU,350,s3,EXO1
+Alkylating Agent,MNNG,0.75,s3,ZNF695
+PAH,DBP,0.0039,s3,TRIM58
+Aldehydes,Formaldehyde,85.5,s2,OR14C36
+PAH,BPDE,0.125,s1,PFKP
+PAH,5-Methylchrysene,1.6,s2,ECHDC3
+PAH,BPDE,0.125,s2,C10orf111
+PAH,DBPDE,0.000625,s3,RSU1
+PAH,DBADE,0.0313,s3,CUBN
+PAH,BaP,0.39,s3,TRDMT1
+PAH,DBADE,0.0313,s3,VIM
+Nitro-PAH,3-NBA,0.1,s2,ARMC3
+Alkylating Agent,ENU,400,s1,ARHGAP21
+PAH,DBPDE,0.000625,s1,GPR158
+Radiation,SSR,1.25,s4,GPR158
+PAH,BPDE,0.125,s3,ABI1
+Drug Therapy,Camptothecin,0.0063,s2,YME1L1
+Other,AAI,1.25,s2,MASTL
+Radiation,SSR,1.25,s4,ARMC4
+PAH,BPDE,0.125,s2,ARMC4
+Other,AFB1,0.25,s1,KIF5B
+Nitro-PAH,6-Nitrochrysene,0.78,s1,NRP1
+PAH,BPDE,0.125,s2,GJD4
+Nitro-PAH,6-Nitrochrysene,12.5,s2,ANKRD30A
+Nitro-PAH,6-Nitrochrysene,12.5,s2,ANKRD30A
+Nitro-PAH,3-NBA,0.025,s2,ZNF248
+Heterocyclic Amine,PhIP,3,s1,ZNF25
+DNA Damage Response Inhibitors,AZ20,0.9375,s1,ZNF33A
+Nitro-PAH,3-NBA,0.025,s3,BMS1
+Drug Therapy,Mitomycin,,s3,FRMPD2
+Heterocyclic Amine,MeIQX,300,s4,WDFY4
+Aldehydes,Acetaldehyde,0.9,s2,WDFY4
+Other,Catechol,5.5,s1,WDFY4
+Metal,Lead,II),s1,C10orf128
+PAH,DBADE,0.109,s5,CHAT
+Radiation,SSR,1.25,s5,IPMK
+Other,AAI,1.25,s2,C10orf107
+PAH,DBADE,0.0313,s3,EGR2
+PAH,DBADE,0.109,s6,JMJD1C
+Drug Therapy,Temozolomide,200,s2,CCAR1
+Drug Therapy,Semustine,700,s2,HK1
+Alkylating Agent,DMH,11.6,s1,ADAMTS14
+Alkylating Agent,ENU,400,s4,C10orf105
+Radiation,Gamma,rradiation,s2,VCL
+Drug Therapy,Mechlorethamine,0.3,s3,KAT6B
+PAH,BPDE,0.125,s3,ZNF503
+PAH,DBADE,0.0313,s2,ZNF503
+Nitro-PAH,3-NBA,0.025,s1,NUTM2B
+PAH,DBA,75,s2,SFTPD
+PAH,DBA,75,s3,SFTPD
+Nitro-PAH,3-NBA,0.1,s3,WAPAL
+Nitro-PAH,"1,8-DNP",8,s1,OPN4
+Control,DMSO,ontrol,s2,LIPM
+Aromatic Amine,"2,6-Dimethylaniline",11,s2,HTR7
+Other,Catechol,5.5,s1,PCGF5
+PAH,BaP,2,s2,RBP4
+PAH,DBADE,0.0313,s3,SORBS1
+Alkylating Agent,MMS,100,s3,LOXL4
+PAH,DBADE,0.0313,s3,HPS1
+PAH,DBADE,0.109,s6,CNNM1
+PAH,DBADE,0.109,s5,CNNM1
+PAH,DBADE,0.109,s1,ABCC2
+Other,Furan,100,s2,HIF1AN
+PAH,5-Methylchrysene,1.6,s1,PITX3
+Nitro-PAH,"1,8-DNP",8,s3,GBF1
+PAH,BPDE,0.125,s3,NFKB2
+PAH,BaP,2,s3,CYP17A1
+ROS/NOS,H2O2,24.5,s2,COL17A1
+Drug Therapy,Semustine,150,s3,SORCS1
+Other,Propylene,xide,s1,SORCS1
+Control,DMSO,ontrol,s3,SORCS1
+PAH,DBPDE,0.000156,s2,NRAP
+PAH,BPDE,0.125,s2,NHLRC2
+PAH,5-Methylchrysene,1.6,s3,ADRB1
+PAH,DBADE,0.109,s5,PNLIP
+PAH,BPDE,0.125,s1,TACC2
+Aromatic Amine,2-Naphthylamine,400,s2,DMBT1
+PAH,BPDE,0.125,s3,DMBT1
+Nitro-PAH,6-Nitrochrysene,50,s1,METTL10
+PAH,5-Methylchrysene,1.6,s1,DPYSL4
+Other,MX,7,s2,TTC40
+PAH,DBADE,0.109,s5,TTC40
+Nitro-PAH,3-NBA,0.1,s3,KNDC1
+Nitro-PAH,"1,8-DNP",8,s3,ADAM8
+Drug Therapy,Carboplatin,5,s1,ECHS1
+PAH,DBPDE,0.000625,s1,ATHL1
+Alkylating Agent,MNU,350,s1,RNH1
+Aromatic Amine,Benzidine,200,s3,PHRF1
+Alkylating Agent,DMH,11.6,s2,PHRF1
+Other,Glycidamide,475,s2,PNPLA2
+PAH,5-Methylchrysene,1.6,s1,PNPLA2
+Other,AAI,1.25,s1,MUC5AC
+PAH,BPDE,0.125,s1,MUC5B
+PAH,5-Methylchrysene,1.6,s2,MUC5B
+PAH,DBP,0.0039,s3,MUC5B
+ROS/NOS,Potassium,romate,s4,IFITM10
+PAH,5-Methylchrysene,1.6,s3,TNNI2
+PAH,DBA,75,s3,KCNQ1
+Drug Therapy,Melphalan,1.5,s1,MRGPRG
+PAH,BPDE,0.125,s3,TRIM68
+Other,MX,7,s1,UBQLNL
+PAH,DBADE,0.109,s6,OR52E6
+Alkylating Agent,ENU,400,s3,CNGA4
+PAH,DBADE,0.109,s5,SMPD1
+Nitro-PAH,6-Nitrochrysene,0.78,s2,OR10A2
+PAH,DBADE,0.109,s1,NRIP3
+Radiation,SSR,1.25,s4,CTR9
+Alkylating Agent,ENU,400,s1,CALCA
+Aromatic Amine,Benzidine,200,s2,ABCC8
+Alkylating Agent,DES,0.938,s2,USH1C
+Alkylating Agent,ENU,400,s3,OTOG
+Nitro-PAH,6-Nitrochrysene,50,s1,LDHC
+PAH,DBAC,5,s3,SPTY2D1
+PAH,BPDE,0.125,s1,TMEM86A
+Aromatic Amine,Benzidine,200,s3,E2F8
+Heterocyclic Amine,IQ,450,s1,CCDC34
+PAH,DBADE,0.109,s1,FBXO3
+PAH,DBADE,0.109,s6,CD44
+Alkylating Agent,DMH,11.6,s2,SLC1A2
+PAH,BaP,0.39,s3,FJX1
+Other,MX,7,s2,TRIM44
+PAH,DBADE,0.0313,s2,TTC17
+Other,AAI,1.25,s3,EXT2
+Drug Therapy,Temozolomide,200,s2,ALX4
+PAH,5-Methylchrysene,1.6,s1,ZNF408
+Drug Therapy,Semustine,700,s1,MYBPC3
+Nitrosamine,N-Nitrosopyrrolidine,50,s2,PSMC3
+PAH,BPDE,0.125,s2,RAPSN
+Control,DMSO,ontrol,s2,OR4S1
+Drug Therapy,Camptothecin,0.0063,s1,OR4C12
+Alkylating Agent,ENU,400,s1,OR4A5
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,TRIM48
+Control,H2O,ontrol,s1,OR4C15
+PAH,BPDE,0.125,s2,OR5D14
+PAH,DBPDE,0.000625,s3,OR5T2
+Other,MX,7,s2,OR8K3
+Aromatic Amine,Benzidine,200,s2,C11orf31
+Other,Glycidamide,475,s2,ZFP91
+Alkylating Agent,DMH,11.6,s2,DTX4
+PAH,BaP,2,s1,OR4D9
+PAH,5-Methylchrysene,1.6,s3,PATL1
+Metal,Sodium,meta),s1,OR10V1
+Alkylating Agent,ENU,400,s4,TCN1
+Alkylating Agent,DMS,0.078,s3,PTGDR2
+Control,MeOH,ontrol,s2,CD6
+PAH,DBA,75,s1,CD5
+PAH,BPDE,0.125,s1,DAK
+PAH,BPDE,0.125,s1,DAK
+Nitro-PAH,"1,8-DNP",8,s1,CPSF7
+Aromatic Amine,o-Anisidine,6,s2,SYT7
+PAH,DBA,75,s2,MYRF
+Aromatic Amine,MOCA,5,s1,AHNAK
+Nitro-PAH,6-Nitrochrysene,50,s1,HNRNPUL2
+Drug Therapy,Cisplatin,3.125,s5,TMEM179B
+Nitro-PAH,6-Nitrochrysene,0.78,s5,SLC3A2
+Nitro-PAH,6-Nitrochrysene,50,s1,SLC3A2
+PAH,DBADE,0.109,s5,CHRM1
+Drug Therapy,Cisplatin,3.125,s6,SLC22A6
+PAH,BPDE,0.125,s1,SLC22A9
+Nitro-PAH,3-NBA,0.1,s2,PLA2G16
+PAH,BPDE,0.125,s3,MACROD1
+Other,MX,7,s1,PLCB3
+PAH,DBP,0.0039,s1,PLCB3
+PAH,BPDE,0.125,s3,CCDC88B
+Nitro-PAH,"1,6-DNP",0.09,s3,CDC42BPG
+PAH,DBADE,0.0313,s2,EHD1
+PAH,DBADE,0.0313,s2,SIPA1
+Radiation,SSR,1.25,s4,B3GNT1
+PAH,BPDE,0.125,s3,DPP3
+Drug Therapy,Temozolomide,200,s1,DPP3
+Nitro-PAH,3-NBA,0.025,s3,DPP3
+Radiation,SSR,1.25,s4,CTD-3074O7.2
+Nitro-PAH,1-Nitropyrene,1.75,s2,CTSF
+Nitro-PAH,6-Nitrochrysene,50,s1,PC
+Control,H2O,ontrol,s2,SSH3
+PAH,DBADE,0.109,s1,PITPNM1
+PAH,BPDE,0.125,s1,PITPNM1
+PAH,BPDE,0.125,s3,ALDH3B2
+Alkylating Agent,DES,0.938,s3,UNC93B1
+PAH,DBPDE,0.000625,s3,FOLR1
+Nitro-PAH,3-NBA,0.025,s1,PAAF1
+Nitro-PAH,6-Nitrochrysene,12.5,s2,POLD3
+Metal,Nickel,II),s2,SERPINH1
+PAH,BPDE,0.125,s1,MAP6
+Aromatic Amine,MOCA,5,s2,UVRAG
+Other,AFB1,0.25,s2,MYO7A
+Drug Therapy,Semustine,700,s1,PAK1
+Nitro-PAH,"1,8-DNP",0.125,s3,RSF1
+Radiation,SSR,1.25,s4,ANKRD42
+Other,AAII,37.5,s5,DLG2
+Alkylating Agent,DMS,0.078,s3,TRIM64B
+Drug Therapy,Cisplatin,12.5,s1,FUT4
+PAH,BaP,0.39,s3,C11orf65
+PAH,BPDE,0.125,s1,C11orf53
+Heterocyclic Amine,PhIP,3,s2,C11orf57
+PAH,BPDE,0.125,s2,HTR3B
+Drug Therapy,Ellipticine,0.375,s1,NXPE1
+Drug Therapy,Carboplatin,5,s2,NXPE4
+Other,Sudan,,s1,SIK3
+Drug Therapy,Melphalan,1.5,s3,CEP164
+Alkylating Agent,DMS,0.078,s3,DSCAML1
+Aromatic Amine,o-Toluidine,14,s3,TMPRSS4
+PAH,BPDE,0.125,s1,KMT2A
+Heterocyclic Amine,PhIP,4,s4,DDX6
+PAH,5-Methylchrysene,1.6,s1,BCL9L
+Aromatic Amine,o-Anisidine,0.85,s1,BCL9L
+PAH,BPDE,0.125,s1,FOXR1
+Nitro-PAH,6-Nitrochrysene,50,s2,FOXR1
+PAH,DBA,75,s1,HMBS
+PAH,BPDE,0.125,s3,NLRX1
+Nitro-PAH,6-Nitrochrysene,12.5,s3,OR10G6
+Nitro-PAH,6-Nitrochrysene,0.78,s2,ROBO3
+Control,DMSO,ontrol,s2,STT3A
+ROS/NOS,Peroxynitrite,30,s2,FLI1
+Alkylating Agent,DMS,0.078,s2,ARHGAP32
+Nitro-PAH,6-Nitrochrysene,0.78,s2,B4GALNT3
+PAH,BPDE,0.125,s3,WNK1
+Radiation,SSR,1.25,s4,FOXM1
+PAH,DBADE,0.0313,s3,KCNA6
+Aromatic Amine,MOCA,37.5,s3,ANO2
+PAH,DBA,75,s3,VWF
+Control,DMSO,ontrol,s3,ACRBP
+Metal,Lead,II),s1,ZNF384
+Drug Therapy,Cisplatin,12.5,s2,GPR162
+PAH,DBP,0.0313,s1,GNB3
+Alkylating Agent,DES,0.938,s2,USP5
+Radiation,SSR,1.25,s4,TPI1
+Alkylating Agent,MNU,350,s3,ENO2
+Nitro-PAH,"1,8-DNP",8,s1,ATN1
+Nitro-PAH,3-NBA,0.1,s4,CLSTN3
+Other,AAI,1.25,s2,CD163L1
+Alkylating Agent,DMH,11.6,s2,NANOG
+Drug Therapy,Ellipticine,0.375,s3,FOXJ2
+ROS/NOS,Peroxynitrite,30,s1,CLEC1A
+Other,Sudan,,s1,TAS2R30
+Alkylating Agent,DMH,11.6,s3,GSG1
+PAH,DBADE,0.0313,s2,GRIN2B
+PAH,BPDE,0.125,s3,SLCO1B3
+PAH,BPDE,0.125,s2,GYS2
+Aromatic Amine,2-Naphthylamine,200,s4,ABCC9
+Alkylating Agent,DMH,11.6,s3,ABCC9
+Nitro-PAH,6-Nitrochrysene,50,s2,BCAT1
+Metal,Nickel,II),s4,SSPN
+Drug Therapy,Ellipticine,0.25,s1,OVCH1
+PAH,BPDE,0.125,s3,KIAA1551
+Nitrosamine,N-Nitrosopyrrolidine,50,s2,PDZRN4
+Aromatic Amine,2-Naphthylamine,400,s2,ADAMTS20
+PAH,DBA,75,s2,ARID2
+PAH,DBADE,0.109,s6,ANP32D
+Drug Therapy,Melphalan,1.5,s2,WNT1
+PAH,BPDE,0.125,s3,DHH
+DNA Damage Response Inhibitors,AZD7762,1.625,s2,LMBR1L
+Nitro-PAH,3-NBA,0.1,s2,PRPF40B
+PAH,DBAC,5,s2,FMNL3
+Alkylating Agent,ENU,400,s4,FAIM2
+Drug Therapy,Cyclophosphamide,18.75,s2,ASIC1
+Alkylating Agent,ENU,400,s4,ANKRD33
+PAH,DBA,75,s3,KRT6A
+Drug Therapy,Camptothecin,0.0063,s2,KRT6A
+PAH,BPDE,0.125,s2,KRT1
+PAH,DBADE,0.0313,s2,KRT18
+Nitro-PAH,3-NBA,0.1,s4,ITGB7
+PAH,DBADE,0.109,s6,ESPL1
+Radiation,SSR,1.25,s5,ESPL1
+Control,DMSO,ontrol,s1,ZNF385A
+Other,Furan,100,s3,ZNF385A
+Aldehydes,Acetaldehyde,12,s3,ITGA5
+Nitro-PAH,6-Nitrochrysene,0.78,s2,PPP1R1A
+Alkylating Agent,DES,0.938,s2,METTL7B
+PAH,DBADE,0.109,s1,DNAJC14
+Radiation,SSR,1.25,s4,SUOX
+Radiation,SSR,1.25,s4,ESYT1
+PAH,DBADE,0.109,s1,ANKRD52
+Aromatic Amine,4-ABP,300,s2,BAZ2A
+Other,OTA,0.08,s2,ZBTB39
+Aromatic Amine,Benzidine,200,s3,LRP1
+Other,AAI,1.25,s3,MBD6
+PAH,DBADE,0.0313,s3,KIF5A
+Other,AAI,1.25,s3,PIP4K2C
+PAH,DBADE,0.109,s1,B4GALNT1
+Alkylating Agent,DES,0.938,s2,CDK4
+Alkylating Agent,DMH,11.6,s1,LRIG3
+PAH,DBADE,0.109,s5,MON2
+Aldehydes,Formaldehyde,120,s2,TMEM5
+Aldehydes,Formaldehyde,120,s2,TMEM5
+ROS/NOS,Potassium,romate,s4,IRAK3
+PAH,DBPDE,0.000625,s3,NUP107
+PAH,BPDE,0.125,s3,CCT2
+Drug Therapy,Semustine,150,s2,PTPRR
+Other,Propylene,xide,s3,GLIPR1L2
+PAH,BPDE,0.125,s1,PHLDA1
+PAH,BaP,0.39,s1,PPFIA2
+Drug Therapy,Mechlorethamine,0.3,s2,CCDC59
+Alkylating Agent,ENU,400,s1,LRRIQ1
+PAH,BPDE,0.125,s1,CEP290
+ROS/NOS,Potassium,romate,s5,FGD6
+PAH,DBP,0.0313,s1,TMPO
+Heterocyclic Amine,IQ,450,s2,APAF1
+Alkylating Agent,DMS,0.078,s3,UTP20
+PAH,DBP,0.0313,s1,GNPTAB
+Nitro-PAH,6-Nitrochrysene,50,s1,TDG
+Control,Media,ontrol,s1,KIAA1033
+PAH,DBADE,0.0313,s3,POLR3B
+PAH,BaP,2,s2,RFX4
+Other,MX,7,s2,ACACB
+Control,Media,ontrol,s3,MVK
+Radiation,Gamma,rradiation,s2,GLTP
+Other,AAI,1.25,s3,C12orf76
+PAH,DBADE,0.109,s5,HECTD4
+Alkylating Agent,MMS,100,s1,HECTD4
+Drug Therapy,Camptothecin,0.0063,s2,OAS3
+PAH,DBADE,0.109,s5,GCN1L1
+PAH,DBA,75,s1,RPLP0
+Nitro-PAH,"1,8-DNP",8,s1,SRSF9
+Control,NaCl,ontrol,s2,CABP1
+PAH,DBA,75,s2,CAMKK2
+Alkylating Agent,MNU,350,s2,KNTC1
+PAH,DBPDE,0.000625,s1,PITPNM2
+PAH,DBADE,0.109,s6,DNAH10
+Nitro-PAH,"1,8-DNP",8,s2,NCOR2
+Heterocyclic Amine,PhIP,3,s3,NCOR2
+PAH,DBADE,0.109,s5,NCOR2
+Drug Therapy,Cisplatin,12.5,s3,TMEM132C
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,SLC15A4
+PAH,BaP,0.39,s3,TMEM132D
+Control,DMSO,ontrol,s1,GPR133
+Other,Propylene,xide,s3,PUS1
+PAH,DBA,75,s3,NOC4L
+PAH,DBADE,0.109,s6,PGAM5
+PAH,DBC,1.5,s3,ZNF10
+Aromatic Amine,2-Naphthylamine,200,s5,SACS
+Alkylating Agent,DES,0.938,s3,MTUS2
+Other,AAI,1.25,s3,KL
+Nitro-PAH,6-Nitrochrysene,50,s2,STARD13
+Heterocyclic Amine,PhIP,3,s2,DCLK1
+Nitro-PAH,6-Nitrochrysene,0.78,s1,AL133318.1
+Other,Propylene,xide,s1,DGKH
+PAH,DBPDE,0.000625,s3,ENOX1
+PAH,DBA,75,s3,CCDC122
+Aromatic Amine,4-ABP,300,s1,FAM194B
+Alkylating Agent,ENU,400,s3,ZC3H13
+PAH,5-Methylchrysene,1.6,s1,INTS6
+PAH,BPDE,0.125,s3,INTS6
+PAH,DBADE,0.109,s1,ATP7B
+Alkylating Agent,ENU,400,s4,NEK5
+PAH,DBPDE,0.000625,s3,DIS3
+Alkylating Agent,ENU,400,s4,GPC5
+DNA Damage Response Inhibitors,AZ20,0.9375,s2,HS6ST3
+Nitro-PAH,6-Nitrochrysene,12.5,s1,FARP1
+Alkylating Agent,DMH,9,s3,NALCN
+Radiation,SSR,1.25,s6,CCDC168
+PAH,DBADE,0.0313,s3,COL4A2
+Drug Therapy,Etoposide,0.0188,s2,ATP11A
+Nitro-PAH,6-Nitrochrysene,50,s1,ATP4B
+Other,AAI,1.25,s3,RASA3
+PAH,BPDE,0.125,s2,OR4Q3
+Control,DMSO,ontrol,s2,OR4K5
+Radiation,Gamma,rradiation,s1,OR4K5
+Nitro-PAH,"1,8-DNP",8,s2,OR4L1
+ROS/NOS,Potassium,romate,s5,OR4K17
+PAH,5-Methylchrysene,1.6,s3,ARHGEF40
+Drug Therapy,Cisplatin,12.5,s2,RPGRIP1
+Other,AAI,1.25,s2,RBM23
+PAH,BPDE,0.125,s1,PSMB11
+Heterocyclic Amine,PhIP,4,s4,PPP1R3E
+Drug Therapy,Olaparib,0.625,s3,MYH6
+PAH,DBA,75,s1,MYH6
+Heterocyclic Amine,MeIQX,300,s3,DHRS4L2
+PAH,BPDE,0.125,s1,LRRC16B
+PAH,BPDE,0.125,s1,PCK2
+Metal,Nickel,II),s2,ADCY4
+Drug Therapy,Mechlorethamine,0.3,s1,NYNRIN
+Drug Therapy,Carboplatin,5,s2,FOXG1
+Nitro-PAH,6-Nitrochrysene,12.5,s2,NUBPL
+Other,Acrylamide,9.5,s1,BAZ1A
+PAH,BaP,2,s1,INSM2
+Aldehydes,Formaldehyde,120,s3,NKX2-1
+Other,MX,7,s1,NKX2-1
+PAH,DBADE,0.0313,s2,MGAT2
+DNA Damage Response Inhibitors,AZD7762,1.625,s2,POLE2
+Other,Styrene,xide,s5,ATL1
+PAH,DBADE,0.0313,s3,NIN
+Alkylating Agent,DES,0.938,s2,PCNXL4
+Radiation,SSR,1.25,s5,SYNE2
+Other,AFB1,0.25,s1,HSPA2
+Nitro-PAH,3-NBA,0.1,s3,SPTB
+PAH,BPDE,0.125,s3,FNTB
+PAH,DBADE,0.109,s1,SMOC1
+Nitro-PAH,6-Nitrochrysene,50,s2,RGS6
+Alkylating Agent,DMS,0.078,s2,DNAL1
+Nitro-PAH,1-Nitropyrene,1.75,s1,JDP2
+Other,Propylene,xide,s2,VASH1
+PAH,5-Methylchrysene,1.6,s1,TMED8
+Aromatic Amine,MOCA,37.5,s1,NRXN3
+Aromatic Amine,2-Naphthylamine,200,s3,TSHR
+PAH,DBPDE,0.000625,s3,SMEK1
+Metal,Lead,II),s3,SERPINA12
+PAH,DBA,75,s1,C14orf132
+PAH,DBADE,0.109,s6,BDKRB1
+Alkylating Agent,DMS,0.078,s3,ATG2B
+Alkylating Agent,DMH,11.6,s2,CCDC85C
+PAH,DBP,0.0039,s3,WARS
+PAH,BaP,2,s1,PPP2R5C
+Drug Therapy,Semustine,150,s2,ANKRD9
+PAH,DBPDE,0.000156,s3,ANKRD9
+PAH,DBP,0.0039,s4,RCOR1
+PAH,DBADE,0.109,s6,TRMT61A
+PAH,DBADE,0.0313,s1,AHNAK2
+Nitro-PAH,6-Nitrochrysene,0.78,s5,AHNAK2
+Drug Therapy,Camptothecin,0.0063,s1,AHNAK2
+PAH,DBADE,0.109,s1,AHNAK2
+Nitro-PAH,6-Nitrochrysene,50,s2,RP11-731F5.1
+PAH,DBC,3.5,s2,MKRN3
+Aldehydes,Formaldehyde,120,s3,MKRN3
+PAH,DBPDE,0.000156,s3,APBA2
+Drug Therapy,Temozolomide,200,s2,TRPM1
+PAH,DBADE,0.109,s1,TRPM1
+Alkylating Agent,MNU,350,s1,OTUD7A
+Radiation,SSR,1.25,s4,GOLGA8O
+Nitro-PAH,3-NBA,0.1,s2,ARHGAP11A
+Alkylating Agent,DMS,0.078,s1,SCG5
+Radiation,SSR,1.25,s6,RYR3
+PAH,BPDE,0.125,s1,MEIS2
+PAH,DBADE,0.109,s1,RASGRP1
+PAH,DBADE,0.109,s1,PAK6
+PAH,DBAC,5,s2,PLCB2
+Other,Methyleugenol,1.25,s2,DISP2
+Heterocyclic Amine,PhIP,4,s4,EXD1
+Nitro-PAH,3-NBA,0.025,s3,MAPKBP1
+Alkylating Agent,DES,0.938,s3,PLA2G4B
+Nitro-PAH,3-NBA,0.1,s2,SPTBN5
+Nitro-PAH,6-Nitrochrysene,0.78,s5,GANC
+Drug Therapy,Mechlorethamine,0.3,s3,STARD9
+PAH,BPDE,0.125,s3,CDAN1
+Radiation,SSR,1.25,s5,CKMT1B
+Radiation,SSR,1.25,s6,STRC
+Aromatic Amine,Benzidine,200,s1,MFAP1
+Alkylating Agent,DMH,11.6,s1,DUOXA2
+Aromatic Amine,2-Naphthylamine,400,s1,CEP152
+Other,Methyleugenol,1.25,s2,RFX7
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,CGNL1
+Drug Therapy,Melphalan,1.5,s2,FAM81A
+Nitro-PAH,6-Nitrochrysene,50,s1,VPS13C
+PAH,DBA,75,s1,CLPX
+Drug Therapy,Ellipticine,0.375,s2,CILP
+Alkylating Agent,ENU,400,s3,DENND4A
+Other,Styrene,xide,s4,GRAMD2
+PAH,5-Methylchrysene,1.6,s3,GOLGA6A
+PAH,DBADE,0.0313,s2,CYP11A1
+Drug Therapy,Cisplatin,12.5,s3,EDC3
+Drug Therapy,Cisplatin,12.5,s3,EDC3
+Radiation,Gamma,rradiation,s1,SCAMP2
+Alkylating Agent,DMH,11.6,s1,MAN2C1
+Nitro-PAH,2-Nitrofluorene,10,s1,MAN2C1
+PAH,BaP,2,s1,ISL2
+Heterocyclic Amine,MeAaC,70,s1,SH2D7
+Control,Media,ontrol,s1,KIAA1024
+Metal,Nickel,II),s4,IL16
+Heterocyclic Amine,PhIP,4,s3,IL16
+Drug Therapy,Semustine,150,s1,BNC1
+Radiation,SSR,1.25,s5,ZSCAN2
+PAH,BaP,2,s2,NMB
+Nitro-PAH,"1,8-DNP",0.125,s1,ISG20
+Alkylating Agent,DMH,11.6,s3,KIF7
+Alkylating Agent,DMH,11.6,s1,KIF7
+Other,Catechol,5.5,s1,SLCO3A1
+PAH,BaP,2,s1,HBQ1
+Nitro-PAH,6-Nitrochrysene,50,s2,MRPL28
+Nitro-PAH,6-Nitrochrysene,12.5,s2,TPSAB1
+Control,DMSO,ontrol,s1,TPSAB1
+PAH,DBPDE,0.000625,s1,BAIAP3
+Aromatic Amine,4-ABP,300,s2,CCDC154
+Other,Furan,100,s1,CLCN7
+PAH,DBADE,0.109,s5,TELO2
+PAH,DBADE,0.109,s5,TELO2
+Heterocyclic Amine,PhIP,3,s1,IFT140
+Nitro-PAH,6-Nitrochrysene,50,s1,CRAMP1L
+PAH,BPDE,0.125,s1,NUBP2
+Aromatic Amine,MOCA,37.5,s3,PKD1
+Alkylating Agent,DMH,11.6,s2,CCNF
+Metal,Nickel,II),s4,ZNF205
+Aromatic Amine,o-Toluidine,14,s1,OR1F1
+PAH,BPDE,0.125,s1,SLX4
+PAH,BPDE,0.125,s3,CREBBP
+Other,Furan,100,s2,CREBBP
+Radiation,SSR,1.25,s4,CREBBP
+Nitro-PAH,"1,8-DNP",0.125,s1,SRL
+Drug Therapy,Bleomycin,0.188,s1,NPIPA5
+DNA Damage Response Inhibitors,AZD7762,1.625,s2,NOMO3
+Aromatic Amine,o-Toluidine,14,s1,SMG1
+Heterocyclic Amine,MeAaC,70,s2,TMC7
+PAH,DBADE,0.0313,s2,TMC5
+PAH,DBADE,0.0313,s2,TMC5
+Control,H2O,ontrol,s1,CCP110
+Metal,Lead,II),s1,ACSM3
+Alkylating Agent,MNU,350,s2,AC004381.6
+Aromatic Amine,Benzidine,200,s2,DNAH3
+Nitro-PAH,6-Nitrochrysene,50,s1,DNAH3
+Other,MX,7,s1,EEF2K
+Radiation,SSR,1.25,s6,PALB2
+PAH,BPDE,0.125,s3,TNRC6A
+PAH,DBA,75,s3,KDM8
+Other,Propylene,xide,s2,NPIPB6
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,RABEP2
+PAH,DBADE,0.0313,s1,KCTD13
+PAH,5-Methylchrysene,1.6,s2,TBX6
+Drug Therapy,Semustine,150,s1,MAPK3
+PAH,DBADE,0.0313,s1,MAPK3
+Alkylating Agent,DMH,11.6,s2,ZNF48
+Radiation,SSR,1.25,s4,ZNF48
+PAH,DBAC,5,s2,ZNF764
+Control,MeOH,ontrol,s1,ZNF688
+Heterocyclic Amine,MeIQX,300,s3,PRR14
+Control,MeOH,ontrol,s1,PRR14
+PAH,DBA,75,s1,SRCAP
+Drug Therapy,Cisplatin,3.125,s4,SRCAP
+Drug Therapy,Cyclophosphamide,18.75,s2,ZNF646
+Control,Media,ontrol,s3,ABCC12
+Nitro-PAH,6-Nitrochrysene,50,s2,ABCC11
+PAH,BPDE,0.125,s3,MT1M
+Nitro-PAH,3-NBA,0.025,s3,CPNE2
+Aromatic Amine,"2,6-Dimethylaniline",3.8,s2,DOK4
+PAH,DBADE,0.109,s6,GPR97
+PAH,DBADE,0.109,s1,CNGB1
+Control,DMSO,ontrol,s2,USB1
+Heterocyclic Amine,PhIP,3,s1,MMP15
+PAH,5-Methylchrysene,1.6,s2,CNOT1
+PAH,DBP,0.0039,s4,CNOT1
+PAH,DBADE,0.109,s1,CMTM2
+Control,MeOH,ontrol,s1,CA7
+PAH,DBADE,0.109,s6,B3GNT9
+PAH,BPDE,0.125,s1,ELMO3
+Nitro-PAH,"1,8-DNP",0.125,s2,FHOD1
+Drug Therapy,Semustine,150,s1,KCTD19
+PAH,5-Methylchrysene,1.6,s2,GFOD2
+Aromatic Amine,o-Anisidine,0.85,s1,EDC4
+Nitro-PAH,3-NBA,0.025,s3,DDX28
+Aromatic Amine,2-Naphthylamine,400,s1,SMPD3
+PAH,BPDE,0.125,s1,SMPD3
+PAH,5-Methylchrysene,1.6,s1,CIRH1A
+Aromatic Amine,MOCA,37.5,s3,TMED6
+Other,OTA,0.08,s1,NFAT5
+Radiation,SSR,1.25,s6,VAC14
+PAH,BPDE,0.125,s3,HYDIN
+Aromatic Amine,Benzidine,200,s3,CALB2
+PAH,BPDE,0.125,s3,DHX38
+Drug Therapy,Semustine,700,s2,PMFBP1
+PAH,BPDE,0.125,s1,MLKL
+Alkylating Agent,DMH,11.6,s3,TMEM170A
+PAH,DBC,1.5,s1,CNTNAP4
+PAH,BPDE,0.125,s3,ZNF469
+Control,MeOH,ontrol,s3,ZNF469
+PAH,BPDE,0.125,s1,ZNF469
+Other,OTA,0.08,s1,PIEZO1
+PAH,DBADE,0.109,s1,PABPN1L
+Drug Therapy,Semustine,150,s2,CDH15
+Other,Methyleugenol,1.25,s2,ANKRD11
+PAH,DBADE,0.109,s1,PRPF8
+PAH,DBADE,0.109,s1,WDR81
+PAH,DBADE,0.109,s5,SMYD4
+Control,DMSO,ontrol,s2,METTL16
+Aldehydes,Formaldehyde,85.5,s3,OR1E1
+Other,MX,7,s2,SPATA22
+Other,OTA,0.08,s2,ATP2A3
+PAH,DBADE,0.109,s1,ANKFY1
+PAH,DBADE,0.109,s5,ANKFY1
+PAH,DBPDE,0.000625,s2,MYBBP1A
+PAH,BPDE,0.125,s3,ZMYND15
+PAH,BPDE,0.125,s1,GP1BA
+PAH,DBADE,0.109,s5,WSCD1
+Aldehydes,Formaldehyde,120,s2,ALOX12
+PAH,5-Methylchrysene,1.6,s2,DLG4
+PAH,BaP,0.39,s1,PHF23
+Radiation,SSR,1.25,s4,GPS2
+Drug Therapy,Temozolomide,200,s2,NEURL4
+Nitro-PAH,6-Nitrochrysene,50,s2,NEURL4
+Drug Therapy,Semustine,700,s1,ACAP1
+Radiation,SSR,1.25,s5,ACAP1
+Other,AFB1,0.25,s1,NLGN2
+Alkylating Agent,DMH,11.6,s2,POLR2A
+Nitro-PAH,6-Nitrochrysene,12.5,s3,EIF4A1
+Nitro-PAH,3-NBA,0.1,s4,ALOX15B
+PAH,DBADE,0.109,s1,NTN1
+Nitro-PAH,6-Nitrochrysene,50,s2,GAS7
+Drug Therapy,Ellipticine,0.375,s2,PIRT
+Aromatic Amine,2-Naphthylamine,400,s1,SHISA6
+Drug Therapy,Temozolomide,200,s1,DNAH9
+PAH,5-Methylchrysene,1.6,s2,MYOCD
+Alkylating Agent,DMH,11.6,s3,NCOR1
+PAH,DBAC,5,s2,NCOR1
+Nitrosamine,N-Nitrosopyrrolidine,50,s3,TRPV2
+PAH,DBA,75,s2,ZNF624
+PAH,BPDE,0.125,s1,CCDC144A
+PAH,DBADE,0.109,s5,TNFRSF13B
+PAH,DBADE,0.109,s6,RAI1
+PAH,DBADE,0.109,s1,MYO15A
+Drug Therapy,Semustine,150,s3,MYO15A
+PAH,DBADE,0.0313,s2,TBC1D28
+Other,Glycidamide,475,s2,ZNF286B
+Drug Therapy,Ellipticine,0.375,s2,MAPK7
+Drug Therapy,Mitomycin,,s3,SPECC1
+PAH,DBADE,0.0313,s2,CORO6
+Heterocyclic Amine,PhIP,3,s3,EFCAB5
+PAH,BaP,0.39,s2,CPD
+Nitro-PAH,"1,6-DNP",0.09,s3,CPD
+PAH,DBADE,0.0313,s2,RNF135
+Drug Therapy,Olaparib,0.625,s3,RAB11FIP4
+Drug Therapy,Cyclophosphamide,18.75,s2,CCL7
+Other,AFB1,0.25,s1,FNDC8
+Nitro-PAH,"1,8-DNP",0.125,s2,ACACA
+PAH,DBADE,0.109,s1,GPR179
+Aldehydes,Formaldehyde,85.5,s2,ARHGAP23
+Other,AAI,1.25,s3,CACNB1
+PAH,5-Methylchrysene,1.6,s3,RARA
+Alkylating Agent,DMH,11.6,s1,KRT12
+PAH,DBADE,0.109,s6,KRTAP2-4
+Aromatic Amine,2-Naphthylamine,400,s2,KRTAP9-1
+PAH,BPDE,0.125,s3,KRT33B
+Nitro-PAH,"1,8-DNP",8,s3,KRT34
+Nitro-PAH,6-Nitrochrysene,50,s2,KRT13
+Heterocyclic Amine,MeIQX,300,s4,KRT13
+Control,DMSO,ontrol,s3,KRT19
+Drug Therapy,Temozolomide,200,s1,KRT19
+Alkylating Agent,DMH,11.6,s1,KRT9
+Radiation,SSR,1.25,s5,ACLY
+Nitro-PAH,6-Nitrochrysene,50,s1,GHDC
+Nitro-PAH,3-NBA,0.025,s2,STAT5B
+Aromatic Amine,2-Naphthylamine,200,s5,STAT3
+Radiation,SSR,1.25,s4,PTRF
+Nitro-PAH,3-NBA,0.025,s3,MEOX1
+PAH,DBADE,0.109,s6,PPY
+Aromatic Amine,2-Naphthylamine,200,s1,FAM171A2
+Nitro-PAH,"1,8-DNP",8,s2,ITGA2B
+Nitro-PAH,6-Nitrochrysene,50,s1,EFTUD2
+Nitro-PAH,6-Nitrochrysene,50,s1,KIF18B
+PAH,DBADE,0.0313,s2,C1QL1
+PAH,DBADE,0.109,s6,CRHR1
+PAH,DBP,0.0313,s1,MAPT
+Nitro-PAH,6-Nitrochrysene,50,s1,KANSL1
+PAH,DBAC,5,s1,WNT3
+PAH,DBADE,0.109,s6,WNT3
+PAH,DBADE,0.109,s6,WNT3
+Alkylating Agent,DMH,11.6,s1,SKAP1
+Heterocyclic Amine,PhIP,4,s4,HOXB9
+Nitro-PAH,"1,8-DNP",8,s1,HOXB13
+PAH,DBADE,0.0313,s1,CALCOCO2
+Drug Therapy,Mechlorethamine,0.3,s3,IGF2BP1
+PAH,BPDE,0.125,s1,ABI3
+PAH,BPDE,0.125,s1,ABI3
+Other,Styrene,xide,s6,PPP1R9B
+Nitro-PAH,"1,8-DNP",0.125,s1,COL1A1
+Nitro-PAH,"1,8-DNP",8,s3,ACSF2
+PAH,DBADE,0.0313,s1,MYCBPAP
+PAH,BPDE,0.125,s2,MYCBPAP
+Drug Therapy,Cisplatin,12.5,s2,SPAG9
+PAH,BPDE,0.125,s3,HSF5
+Nitro-PAH,"1,8-DNP",8,s1,MTMR4
+Heterocyclic Amine,MeAaC,70,s2,TEX14
+Aldehydes,Formaldehyde,120,s3,CLTC
+PAH,DBA,75,s3,C17orf64
+PAH,DBADE,0.109,s6,MED13
+Drug Therapy,Ellipticine,0.625,s1,MRC2
+Aromatic Amine,2-Naphthylamine,200,s3,MARCH10
+PAH,BPDE,0.125,s3,ACE
+PAH,BPDE,0.125,s1,SCN4A
+PAH,DBADE,0.109,s6,AXIN2
+Alkylating Agent,ENU,400,s4,CACNG5
+Aromatic Amine,2-Naphthylamine,200,s4,ABCA8
+PAH,DBADE,0.109,s6,ABCA9
+PAH,DBP,0.0039,s4,ABCA6
+ROS/NOS,Potassium,romate,s1,ABCA6
+PAH,DBADE,0.109,s5,ABCA5
+PAH,BPDE,0.125,s2,SOX9
+PAH,5-Methylchrysene,1.6,s1,SDK2
+PAH,DBA,75,s1,USH1G
+Nitro-PAH,1-Nitropyrene,1.75,s1,KCTD2
+PAH,DBP,0.0313,s3,CASKIN2
+PAH,BPDE,0.125,s1,UNC13D
+Nitro-PAH,3-NBA,0.025,s2,SRP68
+PAH,DBPDE,0.000625,s3,UBALD2
+Nitro-PAH,3-NBA,0.1,s2,AANAT
+PAH,DBADE,0.109,s1,ST6GALNAC2
+PAH,BPDE,0.125,s3,TMEM235
+Nitro-PAH,6-Nitrochrysene,50,s1,DNAH17
+PAH,DBADE,0.109,s5,LGALS3BP
+Aromatic Amine,"2,6-Dimethylaniline",11,s1,ENPP7
+Nitro-PAH,6-Nitrochrysene,50,s2,RNF213
+Heterocyclic Amine,PhIP,4,s5,RNF213
+PAH,DBADE,0.109,s5,RP11-1055B8.7
+Radiation,SSR,1.25,s4,PDE6G
+Alkylating Agent,ENU,400,s1,NOTUM
+Nitro-PAH,6-Nitrochrysene,0.78,s2,DUS1L
+Aromatic Amine,2-Naphthylamine,400,s1,FASN
+PAH,5-Methylchrysene,1.6,s3,CD7
+PAH,BPDE,0.125,s2,HEXDC
+PAH,DBAC,5,s1,ZNF750
+PAH,BPDE,0.125,s2,COLEC12
+Control,H2O,ontrol,s1,CLUL1
+Alkylating Agent,ENU,400,s3,METTL4
+PAH,DBPDE,0.000625,s1,SMCHD1
+Nitro-PAH,"1,8-DNP",8,s1,SMCHD1
+Alkylating Agent,DMH,11.6,s3,PTPRM
+PAH,DBADE,0.109,s5,PTPRM
+Aromatic Amine,"2,6-Dimethylaniline",3.8,s1,SOGA2
+Other,AFB1,0.25,s2,RALBP1
+PAH,DBA,75,s2,PPP4R1
+PAH,BaP,0.39,s3,VAPA
+Other,AAI,1.25,s2,PIEZO2
+Aromatic Amine,2-Naphthylamine,200,s5,GNAL
+Nitro-PAH,2-Nitrofluorene,40,s3,POTEC
+Other,AAI,1.25,s2,ANKRD30B
+Alkylating Agent,DMH,11.6,s3,GATA6
+Other,Styrene,xide,s6,RBBP8
+PAH,5-Methylchrysene,1.6,s1,TMEM241
+Nitro-PAH,6-Nitrochrysene,12.5,s1,LAMA3
+Nitro-PAH,6-Nitrochrysene,0.78,s2,IMPACT
+Radiation,SSR,1.25,s4,DSC1
+Drug Therapy,Cisplatin,3.125,s5,DSG3
+Nitro-PAH,3-NBA,0.1,s4,DSG3
+Radiation,SSR,1.25,s4,MAPRE2
+Radiation,SSR,1.25,s4,MAPRE2
+Nitro-PAH,3-NBA,0.025,s3,ZNF397
+Nitro-PAH,6-Nitrochrysene,0.78,s1,ZNF396
+Aromatic Amine,o-Toluidine,14,s3,FHOD3
+PAH,DBPDE,0.000156,s3,FHOD3
+Alkylating Agent,DMH,11.6,s1,KIAA1328
+PAH,DBADE,0.109,s1,PIK3C3
+PAH,DBA,75,s1,LOXHD1
+Aromatic Amine,2-Naphthylamine,200,s4,PIAS2
+ROS/NOS,H2O2,24.5,s2,SKOR2
+Nitro-PAH,"1,8-DNP",8,s3,SKOR2
+PAH,DBADE,0.109,s6,SKOR2
+Alkylating Agent,MNU,350,s2,ZBTB7C
+Nitro-PAH,3-NBA,0.1,s3,CTIF
+Control,DMSO,ontrol,s1,TCF4
+PAH,DBADE,0.109,s6,NEDD4L
+Heterocyclic Amine,PhIP,4,s4,ALPK2
+Alkylating Agent,DMH,11.6,s1,ZCCHC2
+Other,AFB1,0.25,s1,PHLPP1
+Radiation,SSR,1.25,s5,CCDC102B
+Heterocyclic Amine,PhIP,4,s5,CD226
+Nitro-PAH,2-Nitrofluorene,40,s3,ZNF407
+Alkylating Agent,MNU,350,s1,ZNF407
+PAH,5-Methylchrysene,1.6,s3,NFATC1
+PAH,BPDE,0.125,s3,PARD6G
+Drug Therapy,Ellipticine,0.25,s2,PARD6G
+PAH,BPDE,0.125,s2,C2CD4C
+Nitro-PAH,3-NBA,0.1,s3,GZMM
+Alkylating Agent,DMH,11.6,s1,POLRMT
+Aromatic Amine,4-ABP,300,s1,MISP
+Other,MX,7,s1,SBNO2
+PAH,BaP,0.39,s1,APC2
+Aromatic Amine,MOCA,37.5,s2,APC2
+PAH,DBADE,0.109,s6,APC2
+Aldehydes,Acetaldehyde,12,s1,ADAMTSL5
+PAH,DBADE,0.109,s1,ADAT3
+PAH,5-Methylchrysene,1.6,s1,DOT1L
+PAH,5-Methylchrysene,1.6,s1,DOT1L
+PAH,DBPDE,0.000156,s3,AMH
+Nitro-PAH,3-NBA,0.1,s4,C19orf35
+PAH,DBAC,5,s1,LMNB2
+Aldehydes,Acetaldehyde,12,s3,THOP1
+PAH,5-Methylchrysene,1.6,s1,S1PR4
+Alkylating Agent,DES,0.938,s2,CELF5
+Alkylating Agent,ENU,400,s4,PIP5K1C
+Metal,Lead,II),s3,RAX2
+PAH,DBADE,0.109,s6,SEMA6B
+Aromatic Amine,"2,6-Dimethylaniline",11,s1,ARRDC5
+Nitro-PAH,6-Nitrochrysene,12.5,s1,ARRDC5
+PAH,DBPDE,0.000625,s3,FUT6
+Aromatic Amine,MOCA,5,s1,FUT3
+PAH,DBADE,0.0313,s1,RANBP3
+Nitro-PAH,6-Nitrochrysene,0.78,s5,TNFSF9
+Nitro-PAH,"1,8-DNP",8,s2,C3
+Heterocyclic Amine,PhIP,4,s3,VAV1
+Other,Styrene,xide,s6,INSR
+Nitro-PAH,6-Nitrochrysene,50,s1,C19orf45
+Nitro-PAH,"1,6-DNP",0.09,s2,CTXN1
+PAH,BPDE,0.125,s2,ELAVL1
+PAH,BPDE,0.125,s1,FBN3
+PAH,DBADE,0.109,s6,KANK3
+Other,Propylene,xide,s3,MUC16
+Other,MX,2.5,s5,MUC16
+Metal,Cadmium,hloride,s2,MUC16
+Heterocyclic Amine,PhIP,3,s2,MUC16
+Other,AAI,1.25,s2,MUC16
+Heterocyclic Amine,PhIP,3,s4,MUC16
+Control,H2O,ontrol,s2,MUC16
+PAH,DBADE,0.109,s5,MUC16
+Drug Therapy,Temozolomide,200,s3,ZNF426
+PAH,5-Methylchrysene,1.6,s1,ANGPTL6
+PAH,DBADE,0.0313,s2,DNMT1
+Alkylating Agent,DMH,11.6,s2,TYK2
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,CCDC151
+PAH,DBADE,0.109,s5,PRKCSH
+PAH,5-Methylchrysene,1.6,s3,ZNF627
+Nitro-PAH,"1,8-DNP",8,s3,ZNF439
+Other,Glycidamide,475,s2,ZNF700
+Other,Catechol,5.5,s1,ZNF709
+Other,Propylene,xide,s1,MAN2B1
+Nitro-PAH,"1,6-DNP",0.09,s2,MAST1
+Alkylating Agent,MNNG,0.75,s2,ZSWIM4
+Nitro-PAH,"1,8-DNP",8,s1,RLN3
+Nitro-PAH,"1,8-DNP",8,s1,LPHN1
+PAH,BaP,2,s1,CD97
+PAH,DBADE,0.0313,s2,PKN1
+PAH,DBAC,5,s3,SYDE1
+Nitro-PAH,6-Nitrochrysene,0.78,s2,SYDE1
+Other,MX,7,s4,BRD4
+Control,Media,ontrol,s3,RASAL3
+Alkylating Agent,MMS,100,s1,CYP4F3
+Nitro-PAH,"1,6-DNP",0.09,s2,OR10H2
+Nitro-PAH,"1,8-DNP",0.125,s3,KLF2
+Radiation,SSR,1.25,s4,SMIM7
+Nitro-PAH,"1,8-DNP",0.125,s2,F2RL3
+Other,Propylene,xide,s2,NXNL1
+Control,MeOH,ontrol,s1,COLGALT1
+PAH,5-Methylchrysene,1.6,s2,UNC13A
+Nitro-PAH,"1,8-DNP",8,s2,SLC5A5
+Alkylating Agent,DMH,11.6,s2,CCDC124
+Control,DMSO,ontrol,s3,KCNN1
+Metal,Nickel,II),s4,ARRDC2
+Nitro-PAH,6-Nitrochrysene,0.78,s1,IL12RB1
+Nitro-PAH,"1,8-DNP",0.125,s1,PDE4C
+Nitro-PAH,"1,6-DNP",0.09,s3,LRRC25
+PAH,DBADE,0.109,s6,ELL
+PAH,5-Methylchrysene,1.6,s2,TMEM59L
+Other,AAI,1.25,s3,KLHL26
+PAH,DBADE,0.109,s6,CILP2
+Aldehydes,Acetaldehyde,0.9,s2,ZNF430
+Drug Therapy,Ellipticine,0.25,s1,ZNF676
+PAH,DBA,75,s2,ZNF91
+Drug Therapy,Ellipticine,0.375,s3,POP4
+Nitro-PAH,6-Nitrochrysene,50,s1,ANKRD27
+PAH,DBADE,0.0313,s3,TDRD12
+Aromatic Amine,MOCA,37.5,s1,ZNF599
+PAH,DBADE,0.109,s6,HAMP
+Other,OTA,0.08,s1,RBM42
+Alkylating Agent,DMH,11.6,s3,ZBTB32
+Other,MX,7,s1,KMT2B
+Nitro-PAH,3-NBA,0.1,s2,KMT2B
+Alkylating Agent,DES,0.938,s1,PRODH2
+Aromatic Amine,"2,6-Dimethylaniline",11,s2,NFKBID
+Nitro-PAH,"1,8-DNP",8,s3,ZFP82
+Aldehydes,Acetaldehyde,0.9,s1,ZNF345
+Alkylating Agent,MNU,350,s3,ZNF420
+Control,DMSO,ontrol,s1,ZNF585B
+PAH,DBADE,0.109,s6,ZNF569
+Nitro-PAH,2-Nitrofluorene,40,s2,SIPA1L3
+Alkylating Agent,DMH,11.6,s2,CATSPERG
+Drug Therapy,Cisplatin,12.5,s3,GGN
+PAH,DBADE,0.109,s1,FAM98C
+PAH,DBADE,0.109,s6,RYR1
+PAH,DBADE,0.109,s1,RYR1
+Aromatic Amine,"2,6-Dimethylaniline",3.8,s2,FBXO27
+PAH,BPDE,0.125,s3,FCGBP
+Metal,Sodium,meta),s3,ZNF780B
+Control,Media,ontrol,s3,ZNF780B
+Drug Therapy,Cisplatin,12.5,s2,CNTD2
+PAH,BaP,2,s1,CNTD2
+PAH,DBADE,0.109,s1,SPTBN4
+PAH,DBAC,5,s2,LTBP4
+Nitrosamine,N-Nitrosopyrrolidine,50,s3,ADCK4
+Drug Therapy,Cisplatin,12.5,s1,ADCK4
+PAH,BPDE,0.125,s2,ERF
+Nitro-PAH,3-NBA,0.025,s2,ERF
+PAH,DBADE,0.109,s1,MEGF8
+Drug Therapy,Cisplatin,3.125,s6,MEGF8
+Drug Therapy,Cisplatin,3.125,s6,MEGF8
+Drug Therapy,Mitomycin,,s1,PSG5
+Heterocyclic Amine,PhIP,4,s4,CD177
+Alkylating Agent,DMH,11.6,s2,KCNN4
+PAH,DBP,0.0039,s1,KCNN4
+Drug Therapy,Ellipticine,0.25,s1,LYPD5
+Other,Propylene,xide,s1,ZNF283
+PAH,DBADE,0.109,s1,ZNF226
+PAH,DBADE,0.109,s6,CBLC
+Other,Acrolein,5,s1,APOE
+PAH,BPDE,0.125,s1,RELB
+Metal,Potassium,hromate,s6,BLOC1S3
+PAH,DBADE,0.109,s6,ERCC1
+Control,H2O,ontrol,s1,OPA3
+PAH,BPDE,0.125,s3,DMWD
+PAH,DBADE,0.109,s1,MYPOP
+Nitro-PAH,3-NBA,0.1,s4,CCDC61
+Drug Therapy,Semustine,700,s1,PNMAL1
+PAH,DBADE,0.109,s5,DACT3
+PAH,5-Methylchrysene,1.6,s1,PRKD2
+Nitro-PAH,6-Nitrochrysene,0.78,s2,ARHGAP35
+PAH,DBADE,0.109,s1,SLC8A2
+Nitro-PAH,"1,8-DNP",8,s1,KPTN
+Nitro-PAH,6-Nitrochrysene,0.78,s2,ZNF541
+Drug Therapy,Temozolomide,200,s2,CRX
+Other,AAI,1.25,s3,CABP5
+Drug Therapy,Semustine,150,s2,C19orf68
+PAH,BPDE,0.125,s1,GRIN2D
+PAH,BaP,0.39,s3,RPL18
+Nitro-PAH,3-NBA,0.025,s3,DBP
+Other,AFB1,0.25,s1,MAMSTR
+Aromatic Amine,MOCA,5,s1,CGB2
+Aromatic Amine,Benzidine,200,s1,CGB7
+PAH,BaP,0.39,s3,CGB7
+Aldehydes,Formaldehyde,120,s2,PPFIA3
+Other,AAII,37.5,s6,HRC
+Nitro-PAH,"1,8-DNP",8,s1,GFY
+Nitro-PAH,3-NBA,0.1,s2,RCN3
+Alkylating Agent,DES,0.938,s2,BCL2L12
+Other,MX,7,s2,PTOV1
+PAH,BaP,0.39,s3,KCNC3
+PAH,DBPDE,0.000156,s1,SHANK1
+Other,AFB1,0.25,s1,SHANK1
+Aldehydes,Formaldehyde,120,s2,SHANK1
+Heterocyclic Amine,PhIP,4,s4,SIGLEC12
+Drug Therapy,Cisplatin,3.125,s6,ZNF880
+Alkylating Agent,MNNG,0.75,s2,ZNF160
+Drug Therapy,Cisplatin,12.5,s2,ZNF415
+Aldehydes,Acetaldehyde,0.9,s1,ZNF525
+Control,Media,ontrol,s3,PRKCG
+Aldehydes,Formaldehyde,85.5,s2,CACNG8
+Radiation,Gamma,rradiation,s2,TARM1
+Alkylating Agent,DMH,11.6,s2,LILRB3
+Heterocyclic Amine,PhIP,3,s3,LILRA2
+Alkylating Agent,ENU,400,s1,LILRB1
+PAH,DBPDE,0.000625,s3,LILRB4
+Alkylating Agent,DMH,11.6,s1,KIR2DL3
+PAH,BPDE,0.125,s2,KIR2DL3
+PAH,BaP,2,s1,COX6B2
+Nitro-PAH,6-Nitrochrysene,50,s2,RFPL4A
+PAH,BPDE,0.125,s2,NLRP11
+PAH,DBA,75,s1,NLRP5
+Drug Therapy,Cisplatin,12.5,s1,NLRP5
+Other,Propylene,xide,s3,ZNF470
+Other,AAI,1.25,s1,PEG3
+Nitro-PAH,6-Nitrochrysene,50,s2,PEG3
+ROS/NOS,Potassium,romate,s5,ZIM3
+Radiation,SSR,1.25,s6,ZNF547
+Alkylating Agent,ENU,400,s3,ZNF749
+Radiation,SSR,1.25,s4,ZNF749
+Radiation,Gamma,rradiation,s2,ZNF549
+PAH,BaP,2,s2,ZSCAN4
+Metal,Sodium,meta),s1,ZNF551
+Aldehydes,Acetaldehyde,0.9,s2,ZNF135
+Nitro-PAH,6-Nitrochrysene,0.78,s2,ZNF132
+Radiation,SSR,1.25,s4,SNTG2
+Alkylating Agent,DMH,11.6,s2,TPO
+Nitro-PAH,"1,8-DNP",8,s2,PXDN
+Metal,Cadmium,hloride,s1,SOX11
+Nitro-PAH,2-Nitrofluorene,40,s1,ADAM17
+PAH,BPDE,0.125,s3,CYS1
+Drug Therapy,Cisplatin,12.5,s1,NBAS
+Nitro-PAH,3-NBA,0.1,s4,MATN3
+Alkylating Agent,ENU,400,s4,ITSN2
+Alkylating Agent,DMH,11.6,s2,GPR113
+Other,Furan,100,s2,KCNK3
+PAH,BPDE,0.125,s2,DPYSL5
+Nitro-PAH,6-Nitrochrysene,0.78,s1,CGREF1
+PAH,DBADE,0.109,s5,GTF3C2
+PAH,5-Methylchrysene,1.6,s1,GTF3C2
+Radiation,SSR,1.25,s4,IFT172
+Metal,Potassium,hromate,s2,GCKR
+Drug Therapy,Mitomycin,,s1,C2orf16
+Drug Therapy,Cisplatin,12.5,s3,SLC4A1AP
+PAH,DBA,75,s1,C2orf71
+Alkylating Agent,DMH,11.6,s1,EHD3
+Drug Therapy,Melphalan,1.5,s1,BIRC6
+Drug Therapy,Semustine,150,s2,BIRC6
+Drug Therapy,Semustine,150,s1,LTBP1
+Nitro-PAH,3-NBA,0.1,s2,RASGRP3
+Other,Acrylamide,9.5,s1,HEATR5B
+Control,MeOH,ontrol,s1,SOS1
+Nitro-PAH,"1,8-DNP",8,s3,PKDCC
+Control,DMSO,ontrol,s6,ABCG8
+Drug Therapy,Melphalan,1.5,s2,EPCAM
+PAH,BPDE,0.125,s3,MTIF2
+PAH,DBADE,0.0313,s2,SMEK2
+Alkylating Agent,DMH,11.6,s2,PAPOLG
+Nitro-PAH,"1,8-DNP",0.125,s2,XPO1
+PAH,DBP,0.0039,s1,OTX1
+Nitro-PAH,"1,8-DNP",0.125,s3,SPRED2
+Other,MX,7,s2,APLF
+Other,AAI,1.25,s2,ARHGAP25
+Radiation,SSR,1.25,s4,ARHGAP25
+PAH,DBADE,0.109,s5,GKN1
+Other,Acrylamide,9.5,s1,PAIP2B
+PAH,BaP,2,s2,DYSF
+ROS/NOS,Potassium,romate,s1,DYSF
+Alkylating Agent,DES,0.938,s2,NAT8
+Nitro-PAH,2-Nitrofluorene,40,s3,CATX-2
+PAH,DBADE,0.109,s6,MOGS
+Nitro-PAH,2-Nitrofluorene,40,s3,M1AP
+Alkylating Agent,DMH,11.6,s3,CTNNA2
+Heterocyclic Amine,PhIP,4,s5,KCMF1
+Drug Therapy,Mechlorethamine,0.3,s1,TCF7L1
+Other,AAI,1.25,s3,TCF7L1
+Radiation,SSR,1.25,s4,RETSAT
+Nitro-PAH,"1,8-DNP",8,s1,CAPG
+Drug Therapy,Cisplatin,12.5,s1,MAT2A
+Control,Media,ontrol,s2,GGCX
+Drug Therapy,Ellipticine,0.625,s1,RNF181
+PAH,DBA,75,s2,GNLY
+Other,AAI,1.25,s1,ATOH8
+Drug Therapy,Temozolomide,200,s1,ST3GAL5
+Alkylating Agent,DMH,9,s1,KDM3A
+Nitro-PAH,6-Nitrochrysene,50,s2,ZNF2
+Nitro-PAH,3-NBA,0.1,s3,VWA3B
+PAH,BaP,2,s1,CHST10
+PAH,BaP,2,s2,PDCL3
+Aromatic Amine,Benzidine,900,s1,RFX8
+Nitro-PAH,3-NBA,0.025,s2,IL18R1
+Other,Propylene,xide,s2,RGPD3
+PAH,DBADE,0.0313,s3,SULT1C3
+Control,DMSO,ontrol,s3,RANBP2
+Alkylating Agent,DMH,11.6,s2,SH3RF3
+Alkylating Agent,DES,0.938,s1,BUB1
+PAH,DBADE,0.109,s1,SCTR
+Nitro-PAH,"1,8-DNP",8,s2,PTPN4
+Radiation,SSR,1.25,s5,MYO7B
+Control,DMSO,ontrol,s2,MYO7B
+Aromatic Amine,"2,6-Dimethylaniline",3.8,s1,SAP130
+PAH,DBAC,5,s3,POTEI
+Nitro-PAH,6-Nitrochrysene,50,s1,POTEE
+Nitro-PAH,6-Nitrochrysene,50,s2,NCKAP5
+Nitro-PAH,6-Nitrochrysene,0.78,s1,MGAT5
+PAH,DBADE,0.109,s1,MAP3K19
+Heterocyclic Amine,PhIP,4,s4,RAB3GAP1
+PAH,BPDE,0.125,s3,HNMT
+Other,Furan,100,s2,LRP1B
+Heterocyclic Amine,MeIQX,300,s3,EPC2
+Nitro-PAH,1-Nitropyrene,1.75,s2,NR4A2
+Nitro-PAH,6-Nitrochrysene,50,s1,NR4A2
+Drug Therapy,Mechlorethamine,0.3,s3,GPD2
+Drug Therapy,Cyclophosphamide,18.75,s2,MARCH7
+Drug Therapy,Cisplatin,3.125,s5,PLA2R1
+Control,H2O,ontrol,s1,SCN9A
+Metal,Lead,II),s2,SCN7A
+Heterocyclic Amine,PhIP,3,s2,XIRP2
+PAH,DBC,3.5,s1,B3GALT1
+Other,AAI,1.25,s3,STK39
+Other,AFB1,0.25,s1,UBR3
+Aldehydes,Formaldehyde,120,s2,MYO3B
+PAH,BPDE,0.125,s1,SLC25A12
+Other,AAI,1.25,s2,RAPGEF4
+Drug Therapy,Camptothecin,0.0063,s1,TTN
+Alkylating Agent,MNU,350,s3,TTN
+Other,Acrolein,5,s2,TTN
+PAH,BaP,2,s2,TTN
+Nitro-PAH,1-Nitropyrene,1.75,s2,TTN
+Nitro-PAH,3-NBA,0.1,s2,TTN
+ROS/NOS,H2O2,24.5,s1,CERKL
+Alkylating Agent,ENU,400,s1,ZC3H15
+Nitro-PAH,6-Nitrochrysene,0.78,s2,COL5A2
+PAH,BPDE,0.125,s2,COL5A2
+Metal,Potassium,hromate,s2,NAB1
+Radiation,SSR,1.25,s6,HECW2
+Control,MeOH,ontrol,s2,ANKRD44
+Drug Therapy,Melphalan,1.5,s3,RFTN2
+Drug Therapy,Mechlorethamine,0.3,s1,CASP10
+PAH,DBAC,5,s3,ALS2
+Alkylating Agent,DMH,11.6,s3,NRP2
+Drug Therapy,Temozolomide,200,s2,UNC80
+PAH,DBA,75,s3,BARD1
+Radiation,SSR,1.25,s6,TNS1
+Drug Therapy,Temozolomide,200,s2,USP37
+Nitro-PAH,3-NBA,0.1,s2,WNT10A
+Other,MX,2.5,s5,FEV
+Alkylating Agent,ENU,400,s1,CCDC108
+Alkylating Agent,MNU,350,s1,SPEG
+Drug Therapy,Mechlorethamine,0.3,s3,CHPF
+PAH,BPDE,0.125,s1,EPHA4
+PAH,DBP,0.0039,s1,KCNE4
+PAH,DBADE,0.0313,s3,DOCK10
+Nitrosamine,N-Nitrosopyrrolidine,50,s3,DNER
+Alkylating Agent,DMS,0.078,s2,PSMD1
+Radiation,SSR,1.25,s4,NCL
+Radiation,SSR,1.25,s4,NCL
+Metal,Lead,II),s1,NMUR1
+Alkylating Agent,DMH,11.6,s1,NPPC
+ROS/NOS,Potassium,romate,s1,HJURP
+PAH,DBADE,0.109,s5,SH3BP4
+Drug Therapy,Temozolomide,200,s2,IQCA1
+Control,DMSO,ontrol,s2,COL6A3
+PAH,BaP,0.39,s1,PER2
+Radiation,SSR,1.25,s6,OR6B3
+Other,AAI,1.25,s2,GPC1
+Nitro-PAH,6-Nitrochrysene,0.78,s5,SNED1
+Metal,Lead,II),s2,PASK
+Drug Therapy,Temozolomide,200,s2,ANO7
+PAH,5-Methylchrysene,1.6,s3,ANO7
+PAH,BaP,2,s2,HDLBP
+Control,DMSO,ontrol,s1,GAL3ST2
+PAH,DBADE,0.109,s1,SCRT2
+PAH,BPDE,0.125,s1,SIRPD
+PAH,DBA,75,s1,C20orf141
+Alkylating Agent,ENU,400,s3,C20orf194
+Aldehydes,Formaldehyde,120,s1,GPCPD1
+PAH,BPDE,0.125,s3,FERMT1
+Drug Therapy,Cisplatin,12.5,s1,ANKEF1
+Drug Therapy,Cisplatin,12.5,s3,JAG1
+Nitro-PAH,"1,6-DNP",0.09,s2,KIF16B
+Control,DMSO,ontrol,s2,CSRP2BP
+PAH,BPDE,0.125,s3,INSM1
+Nitro-PAH,6-Nitrochrysene,12.5,s1,CD93
+PAH,BaP,2,s3,ENTPD6
+Alkylating Agent,DES,0.938,s3,DUSP15
+PAH,DBADE,0.109,s1,TM9SF4
+Nitro-PAH,6-Nitrochrysene,50,s2,C20orf112
+Other,AAI,1.25,s3,BPIFB3
+Nitro-PAH,6-Nitrochrysene,50,s1,BPIFB3
+PAH,BaP,2,s3,SNTA1
+Control,DMSO,ontrol,s2,E2F1
+PAH,DBADE,0.109,s1,ZNF341
+PAH,DBADE,0.109,s1,ZNF341
+PAH,BPDE,0.125,s3,AHCY
+PAH,BPDE,0.125,s3,AHCY
+Nitro-PAH,3-NBA,0.1,s2,NCOA6
+PAH,BPDE,0.125,s3,SLA2
+Nitro-PAH,3-NBA,0.1,s3,SOGA1
+Drug Therapy,Cisplatin,12.5,s3,KIAA1755
+Drug Therapy,Camptothecin,0.0063,s2,LBP
+PAH,DBADE,0.109,s1,SLC32A1
+PAH,DBADE,0.109,s1,DHX35
+PAH,DBADE,0.0313,s1,JPH2
+Radiation,SSR,1.25,s4,GDAP1L1
+PAH,DBADE,0.109,s6,PABPC1L
+Nitro-PAH,"1,8-DNP",8,s3,CDH22
+Alkylating Agent,DMH,11.6,s1,NCOA3
+PAH,BPDE,0.125,s2,PTGIS
+PAH,DBADE,0.109,s6,ZFP64
+Nitro-PAH,6-Nitrochrysene,0.78,s1,ZNF217
+PAH,DBADE,0.109,s5,CYP24A1
+PAH,BPDE,0.125,s3,FAM210B
+Alkylating Agent,MNU,350,s1,CSTF1
+PAH,5-Methylchrysene,1.6,s3,PHACTR3
+Drug Therapy,Semustine,150,s2,PSMA7
+PAH,BPDE,0.125,s1,LAMA5
+PAH,DBADE,0.109,s6,COL9A3
+PAH,DBADE,0.109,s1,BHLHE23
+PAH,DBADE,0.0313,s1,COL20A1
+PAH,DBADE,0.109,s6,PTK6
+Nitro-PAH,"1,6-DNP",0.09,s2,RTEL1
+PAH,BPDE,0.125,s3,RTEL1
+PAH,DBA,75,s1,ZNF512B
+Nitro-PAH,"1,8-DNP",0.125,s1,MYT1
+Other,AAI,1.25,s2,PCMTD2
+Nitro-PAH,"1,8-DNP",8,s3,TPTE
+Heterocyclic Amine,PhIP,4,s3,ADAMTS1
+Nitro-PAH,6-Nitrochrysene,50,s2,BACH1
+Other,OTA,0.08,s2,KRTAP19-2
+PAH,BPDE,0.125,s1,KRTAP20-1
+PAH,BaP,2,s3,TIAM1
+Heterocyclic Amine,PhIP,3,s2,OLIG2
+Metal,Lead,II),s3,CLIC6
+Heterocyclic Amine,PhIP,4,s4,DOPEY2
+Aromatic Amine,4-ABP,300,s1,DSCAM
+PAH,DBAC,5,s2,TMPRSS3
+Drug Therapy,Cisplatin,12.5,s1,RSPH1
+PAH,DBADE,0.109,s1,RSPH1
+Radiation,SSR,1.25,s4,CRYAA
+PAH,BPDE,0.125,s1,TSPEAR
+Drug Therapy,Temozolomide,200,s1,ADARB1
+Drug Therapy,Semustine,700,s3,ADARB1
+PAH,DBADE,0.0313,s3,COL6A2
+Heterocyclic Amine,MeIQX,300,s1,PCNT
+PAH,5-Methylchrysene,1.6,s2,CCT8L2
+Nitro-PAH,"1,8-DNP",8,s1,PRODH
+Nitro-PAH,6-Nitrochrysene,0.78,s5,MED15
+PAH,DBADE,0.109,s1,HIC2
+PAH,BPDE,0.125,s1,IGLL5
+Other,MX,7,s2,BCR
+PAH,DBA,75,s1,GGT5
+Alkylating Agent,ENU,400,s4,UPB1
+Nitro-PAH,6-Nitrochrysene,50,s1,KIAA1671
+Heterocyclic Amine,PhIP,4,s5,SEZ6L
+Nitro-PAH,6-Nitrochrysene,50,s1,MN1
+Nitro-PAH,"1,6-DNP",0.09,s3,TTC28
+Alkylating Agent,DMH,11.6,s2,THOC5
+Heterocyclic Amine,MeIQX,300,s1,RNF215
+PAH,DBADE,0.109,s5,SLC35E4
+Nitro-PAH,6-Nitrochrysene,50,s2,SLC35E4
+Other,AAI,1.25,s2,SMTN
+Radiation,SSR,1.25,s4,LIMK2
+PAH,BPDE,0.125,s2,PATZ1
+Aromatic Amine,MOCA,37.5,s2,C22orf24
+Nitro-PAH,"1,8-DNP",0.125,s3,C22orf42
+PAH,BPDE,0.125,s2,LARGE
+PAH,BPDE,0.125,s2,CACNG2
+Nitrosamine,N-Nitrosopyrrolidine,50,s1,NCF4
+Drug Therapy,Mechlorethamine,0.3,s1,TEX33
+Nitro-PAH,3-NBA,0.1,s3,TST
+PAH,DBADE,0.109,s6,TMPRSS6
+Other,AAII,37.5,s4,BAIAP2L2
+Drug Therapy,Temozolomide,200,s2,KDELR3
+PAH,BPDE,0.125,s3,APOBEC3D
+Other,AAI,1.25,s3,APOBEC3G
+Radiation,SSR,1.25,s4,ATF4
+PAH,DBADE,0.109,s5,FAM83F
+Control,Media,ontrol,s2,TNRC6B
+PAH,DBPDE,0.000625,s2,MKL1
+Control,DMSO,ontrol,s1,EP300
+PAH,DBP,0.0313,s1,TEF
+PAH,BaP,0.39,s3,MEI1
+Alkylating Agent,DMH,11.6,s2,TCF20
+Other,AAI,1.25,s3,KIAA0930
+PAH,BPDE,0.125,s1,RIBC2
+Radiation,SSR,1.25,s4,GTSE1
+PAH,BaP,2,s2,MOV10L1
+Drug Therapy,Olaparib,0.625,s2,TUBGCP6
+PAH,DBPDE,0.000625,s1,PLXNB2
+Aldehydes,Acetaldehyde,12,s3,TYMP
+PAH,DBADE,0.109,s6,ODF3B
+Nitro-PAH,2-Nitrofluorene,40,s2,CNTN6
+Alkylating Agent,DMH,11.6,s2,ITPR1
+Nitro-PAH,6-Nitrochrysene,0.78,s1,SETD5
+PAH,BPDE,0.125,s2,MTMR14
+Alkylating Agent,DMH,11.6,s2,ARPC4
+PAH,DBADE,0.0313,s2,FANCD2
+Nitro-PAH,3-NBA,0.1,s2,IRAK2
+Other,AAI,1.25,s2,ATG7
+PAH,DBADE,0.109,s5,CAND2
+Aromatic Amine,Benzidine,900,s3,NUP210
+Alkylating Agent,DMH,11.6,s2,XPC
+PAH,DBADE,0.109,s1,FGD5
+Aromatic Amine,2-Naphthylamine,200,s3,ZFYVE20
+Drug Therapy,Cisplatin,12.5,s3,METTL6
+Nitro-PAH,6-Nitrochrysene,50,s1,BTD
+Nitro-PAH,6-Nitrochrysene,50,s2,ANKRD28
+PAH,DBA,75,s1,RFTN1
+Nitro-PAH,6-Nitrochrysene,0.78,s2,TRANK1
+Nitro-PAH,6-Nitrochrysene,0.78,s2,TRANK1
+Nitro-PAH,3-NBA,0.1,s4,MYD88
+PAH,DBADE,0.109,s1,XYLB
+Aromatic Amine,Benzidine,200,s1,VIPR1
+Alkylating Agent,ENU,400,s4,NKTR
+Other,MX,7,s2,NKTR
+Other,Propylene,xide,s3,ZKSCAN7
+PAH,DBADE,0.0313,s2,ZNF502
+PAH,DBADE,0.109,s6,TGM4
+Nitro-PAH,6-Nitrochrysene,0.78,s5,PRSS42
+Alkylating Agent,DES,0.938,s3,KIF9
+Aromatic Amine,o-Toluidine,14,s3,DHX30
+PAH,BPDE,0.125,s1,DHX30
+PAH,BPDE,0.125,s1,MAP4
+Drug Therapy,Semustine,150,s3,COL7A1
+PAH,DBADE,0.0313,s2,COL7A1
+PAH,DBADE,0.0313,s2,CELSR3
+Nitro-PAH,6-Nitrochrysene,50,s1,CELSR3
+PAH,DBPDE,0.000156,s3,PRKAR2A
+Radiation,SSR,1.25,s4,DALRD3
+Nitro-PAH,6-Nitrochrysene,50,s2,IMPDH2
+PAH,DBADE,0.109,s6,USP19
+PAH,BPDE,0.125,s3,CCDC71
+Drug Therapy,Temozolomide,200,s1,CCDC36
+Aromatic Amine,4-ABP,300,s2,USP4
+PAH,DBADE,0.0313,s3,SEMA3F
+Aromatic Amine,o-Anisidine,6,s1,HYAL3
+Nitro-PAH,"1,8-DNP",8,s2,DOCK3
+Nitro-PAH,6-Nitrochrysene,0.78,s2,VPRBP
+PAH,DBADE,0.109,s1,PPM1M
+Nitro-PAH,2-Nitrofluorene,10,s1,DNAH1
+PAH,DBPDE,0.000156,s2,DNAH1
+PAH,DBA,75,s2,DNAH1
+PAH,DBADE,0.0313,s1,STAB1
+PAH,DBADE,0.0313,s3,STAB1
+PAH,BPDE,0.125,s3,CACNA1D
+Alkylating Agent,ENU,400,s1,CCDC66
+PAH,BPDE,0.125,s3,DNAH12
+Alkylating Agent,DMH,11.6,s1,PXK
+PAH,DBA,75,s1,FAM3D
+Nitro-PAH,"1,8-DNP",8,s1,C3orf67
+Nitro-PAH,"1,8-DNP",8,s3,ATXN7
+Other,MX,2.5,s1,ADAMTS9
+PAH,BaP,0.39,s2,MITF
+PAH,BaP,0.39,s2,CNTN3
+Heterocyclic Amine,MeIQX,300,s4,OR5H14
+Other,MX,7,s2,CPOX
+Drug Therapy,Cyclophosphamide,18.75,s2,NXPE3
+PAH,DBC,3.5,s1,KIAA1524
+Drug Therapy,Ellipticine,0.25,s2,GUCA1C
+Nitro-PAH,"1,8-DNP",0.125,s2,PVRL3
+Alkylating Agent,ENU,400,s1,SIDT1
+ROS/NOS,Potassium,romate,s4,KIAA2018
+PAH,DBPDE,0.000625,s2,ZBTB20
+ROS/NOS,Potassium,romate,s4,STXBP5L
+Heterocyclic Amine,PhIP,3,s2,STXBP5L
+PAH,DBA,75,s2,POLQ
+PAH,DBADE,0.109,s5,PDIA5
+PAH,BPDE,0.125,s1,ALDH1L1
+PAH,5-Methylchrysene,1.6,s2,KLF15
+Other,Methyleugenol,1.9,s3,ZXDC
+PAH,DBADE,0.109,s1,CHCHD6
+Nitro-PAH,6-Nitrochrysene,12.5,s2,GATA2
+Drug Therapy,Mitomycin,,s2,EFCAB12
+PAH,BPDE,0.125,s3,PLXND1
+Drug Therapy,Mitomycin,,s3,COL6A5
+Control,MeOH,ontrol,s2,COL6A5
+Nitro-PAH,"1,8-DNP",0.125,s3,COL6A5
+PAH,DBPDE,0.000156,s2,COL6A6
+Other,AFB1,0.25,s1,COL6A6
+PAH,DBADE,0.0313,s1,PCCB
+Metal,Nickel,II),s2,SLC35G2
+PAH,5-Methylchrysene,1.6,s1,DZIP1L
+Drug Therapy,Ellipticine,0.375,s3,ESYT3
+Aldehydes,Formaldehyde,120,s1,PRR23C
+Metal,Nickel,II),s1,PRR23C
+PAH,BPDE,0.125,s1,RBP1
+Nitro-PAH,6-Nitrochrysene,50,s2,TRIM42
+Aldehydes,Acetaldehyde,12,s3,ZIC4
+Alkylating Agent,DMS,0.078,s1,HPS3
+Control,DMSO,ontrol,s2,GMPS
+PAH,5-Methylchrysene,1.6,s1,IL12A
+PAH,5-Methylchrysene,1.6,s1,SLITRK3
+PAH,BaP,0.39,s3,SEC62
+Metal,Nickel,II),s1,PRKCI
+PAH,DBC,1.5,s2,TNIK
+ROS/NOS,Potassium,romate,s4,NLGN1
+Other,AAI,1.25,s3,ACTL6A
+Aromatic Amine,"2,6-Dimethylaniline",3.8,s2,ACTL6A
+Nitrosamine,N-Nitrosopyrrolidine,50,s3,MCF2L2
+Alkylating Agent,DMS,0.078,s1,HTR3C
+PAH,BaP,0.39,s2,AP2M1
+Drug Therapy,Mechlorethamine,0.3,s2,FAM131A
+Radiation,SSR,1.25,s4,TBCCD1
+PAH,DBPDE,0.000156,s2,TBCCD1
+Radiation,SSR,1.25,s4,HRG
+PAH,BPDE,0.125,s1,RFC4
+PAH,DBA,75,s3,IL1RAP
+Drug Therapy,Ellipticine,0.625,s1,ATP13A5
+Nitro-PAH,6-Nitrochrysene,50,s2,ATP13A3
+Alkylating Agent,DES,0.938,s3,XXYLT1
+Drug Therapy,Mitomycin,,s3,NRROS
+Heterocyclic Amine,PhIP,3,s3,NRROS
+Heterocyclic Amine,PhIP,3,s3,NRROS
+Heterocyclic Amine,PhIP,4,s4,KIAA0226
+Alkylating Agent,DMH,11.6,s1,IDUA
+PAH,DBADE,0.109,s5,FAM53A
+PAH,DBA,75,s3,C4orf48
+DNA Damage Response Inhibitors,AZ20,0.9375,s2,ZFYVE28
+PAH,DBADE,0.109,s5,RNF4
+PAH,DBPDE,0.000625,s1,SH3BP2
+Drug Therapy,Mechlorethamine,0.3,s2,GRK4
+Aromatic Amine,2-Naphthylamine,200,s5,GRK4
+Nitro-PAH,"1,8-DNP",8,s3,DOK7
+Nitro-PAH,3-NBA,0.025,s1,DOK7
+PAH,BaP,2,s3,ADRA2C
+Metal,Cadmium,hloride,s2,NSG1
+ROS/NOS,Potassium,romate,s3,STX18
+PAH,DBADE,0.109,s6,STK32B
+Drug Therapy,Carboplatin,5,s2,STK32B
+Nitro-PAH,6-Nitrochrysene,12.5,s2,C4orf50
+Alkylating Agent,DMH,9,s3,C4orf50
+Nitro-PAH,6-Nitrochrysene,50,s2,ABLIM2
+Nitro-PAH,6-Nitrochrysene,0.78,s5,SLC2A9
+Metal,Lead,II),s2,CPEB2
+PAH,DBADE,0.109,s5,PROM1
+Drug Therapy,Melphalan,1.5,s3,SLIT2
+Control,MeOH,ontrol,s1,SLIT2
+Other,AAI,1.25,s3,SLIT2
+PAH,BPDE,0.125,s2,SLIT2
+Radiation,SSR,1.25,s6,SLC34A2
+Alkylating Agent,DES,0.938,s2,PCDH7
+Control,DMSO,ontrol,s1,KLF3
+Nitro-PAH,3-NBA,0.1,s2,WDR19
+Drug Therapy,Melphalan,1.5,s3,NSUN7
+Other,AAII,37.5,s4,LIMCH1
+Nitro-PAH,3-NBA,0.025,s1,SLC10A4
+Nitro-PAH,"1,8-DNP",8,s2,LNX1
+PAH,DBADE,0.0313,s3,KIAA1211
+Heterocyclic Amine,PhIP,4,s5,AASDH
+Drug Therapy,Cyclophosphamide,60,s2,SLC4A4
+Alkylating Agent,ENU,400,s4,BMP2K
+Drug Therapy,Ellipticine,0.375,s1,PRKG2
+Metal,Lead,II),s1,LIN54
+PAH,DBADE,0.0313,s2,MAPK10
+PAH,DBA,75,s3,PTPN13
+Nitro-PAH,6-Nitrochrysene,0.78,s2,AFF1
+PAH,BPDE,0.125,s2,NUDT9
+Control,Media,ontrol,s1,PDHA2
+PAH,BaP,0.39,s2,ADH1B
+Aromatic Amine,MOCA,37.5,s2,NFKB1
+PAH,BPDE,0.125,s3,MANBA
+Radiation,Gamma,rradiation,s2,ARHGEF38
+Nitro-PAH,6-Nitrochrysene,12.5,s3,LEF1
+Drug Therapy,Camptothecin,0.0063,s1,COL25A1
+Other,MX,2.5,s5,CFI
+Alkylating Agent,DMS,0.078,s2,LARP7
+Control,MeOH,ontrol,s1,FAT4
+PAH,5-Methylchrysene,1.6,s2,FAT4
+Drug Therapy,Semustine,150,s3,INTU
+Nitro-PAH,6-Nitrochrysene,0.78,s2,CCRN4L
+Radiation,SSR,1.25,s4,RNF150
+Drug Therapy,Temozolomide,200,s1,FREM3
+Other,Propylene,xide,s3,FREM3
+Other,Propylene,xide,s3,LRBA
+PAH,DBPDE,0.000156,s3,SFRP2
+PAH,DBPDE,0.000625,s1,GRIA2
+PAH,DBADE,0.109,s6,ANXA10
+Radiation,Gamma,rradiation,s1,DDX60L
+Other,AFB1,0.25,s1,NEK1
+Drug Therapy,Ellipticine,0.375,s2,STOX2
+Other,AFB1,0.25,s1,ENPP6
+PAH,5-Methylchrysene,1.6,s1,KIAA1430
+Other,MX,7,s2,CCDC110
+PAH,BPDE,0.125,s2,AHRR
+PAH,DBADE,0.109,s5,SLC6A18
+Aldehydes,Formaldehyde,120,s2,TERT
+Drug Therapy,Cisplatin,3.125,s5,LPCAT1
+PAH,5-Methylchrysene,1.6,s3,LPCAT1
+Radiation,SSR,1.25,s4,IRX2
+Radiation,SSR,1.25,s4,IRX2
+Alkylating Agent,DMH,11.6,s3,IRX2
+Radiation,SSR,1.25,s4,PAPD7
+Nitro-PAH,"1,8-DNP",0.125,s2,ANKRD33B
+PAH,DBADE,0.109,s6,MYO10
+Nitro-PAH,6-Nitrochrysene,50,s1,CDH18
+Heterocyclic Amine,MeIQX,300,s3,CDH10
+PAH,BPDE,0.125,s3,CDH9
+Drug Therapy,Mitomycin,,s1,PDZD2
+PAH,BPDE,0.125,s1,GOLPH3
+Nitro-PAH,6-Nitrochrysene,0.78,s5,UGT3A2
+Alkylating Agent,MNU,350,s3,NIPBL
+Radiation,SSR,1.25,s6,WDR70
+Nitro-PAH,6-Nitrochrysene,0.78,s5,DAB2
+PAH,BaP,2,s2,NNT
+PAH,DBADE,0.109,s6,HCN1
+Other,AFB1,0.25,s1,PELO
+PAH,DBA,75,s1,ITGA2
+PAH,BPDE,0.125,s1,SKIV2L2
+Heterocyclic Amine,MeIQX,300,s3,ACTBL2
+Radiation,SSR,1.25,s5,GAPT
+Other,Methyleugenol,1.25,s3,ZSWIM6
+Aldehydes,Formaldehyde,120,s2,C5orf64
+PAH,DBPDE,0.000625,s1,PPWD1
+PAH,BPDE,0.125,s2,MRPS36
+Aromatic Amine,MOCA,5,s2,BDP1
+PAH,DBADE,0.0313,s2,BDP1
+Drug Therapy,Temozolomide,200,s1,MRPS27
+PAH,DBADE,0.109,s5,ARHGEF28
+PAH,DBADE,0.0313,s1,GCNT4
+Nitro-PAH,"1,8-DNP",8,s2,ANKRD31
+Drug Therapy,Cisplatin,12.5,s2,ANKRD31
+Drug Therapy,Cisplatin,12.5,s2,ANKRD31
+Nitro-PAH,6-Nitrochrysene,50,s2,AGGF1
+Other,Propylene,xide,s2,JMY
+Other,Propylene,xide,s1,CMYA5
+Radiation,SSR,1.25,s4,CMYA5
+Alkylating Agent,ENU,400,s4,KIAA0825
+Other,AAI,1.25,s1,RIOK2
+Control,H2O,ontrol,s2,CHD1
+Aldehydes,Formaldehyde,120,s1,EPB41L4A
+PAH,DBA,75,s2,YTHDC2
+PAH,DBP,0.0039,s3,MEGF10
+Nitrosamine,N-Nitrosopyrrolidine,50,s3,SLC12A2
+Alkylating Agent,DMH,11.6,s2,FBN2
+Alkylating Agent,DMH,11.6,s2,ADAMTS19
+PAH,BPDE,0.125,s1,CHSY3
+Heterocyclic Amine,PhIP,3,s4,ACSL6
+Alkylating Agent,MNU,350,s1,P4HA2
+Nitro-PAH,6-Nitrochrysene,12.5,s2,SOWAHA
+Nitro-PAH,"1,8-DNP",8,s1,KIF20A
+Aromatic Amine,Benzidine,200,s2,CDC23
+PAH,BPDE,0.125,s1,FAM53C
+ROS/NOS,Potassium,romate,s3,PSD2
+ROS/NOS,H2O2,24.5,s1,APBB3
+PAH,5-Methylchrysene,1.6,s2,CD14
+Drug Therapy,Ellipticine,0.25,s1,TMCO6
+Heterocyclic Amine,PhIP,4,s4,ZMAT2
+Nitro-PAH,6-Nitrochrysene,50,s2,PCDHA9
+Drug Therapy,Ellipticine,0.375,s1,PCDHA13
+PAH,BPDE,0.125,s3,PCDHA13
+PAH,BPDE,0.125,s1,PCDHB5
+Alkylating Agent,ENU,400,s4,PCDHB11
+Other,Propylene,xide,s1,TAF7
+Drug Therapy,Carboplatin,5,s1,PCDHGA1
+PAH,DBADE,0.109,s1,PCDHGB4
+Metal,Lead,II),s1,PCDHGB7
+Other,Methyleugenol,1.25,s1,PCDHGC4
+PAH,BaP,2,s1,KIAA0141
+Nitro-PAH,1-Nitropyrene,1.75,s2,SH3RF2
+PAH,DBPDE,0.000625,s2,FBXO38
+Drug Therapy,Cisplatin,12.5,s1,AFAP1L1
+Other,Methyleugenol,1.9,s3,HMGXB3
+Aromatic Amine,MOCA,37.5,s2,ARSI
+Alkylating Agent,DMH,11.6,s3,GRIA1
+Nitro-PAH,"1,8-DNP",0.125,s1,CYFIP2
+PAH,DBA,75,s3,ADRA1B
+Alkylating Agent,DES,0.938,s1,ATP10B
+Drug Therapy,Cyclophosphamide,60,s1,GABRA6
+Metal,Cobalt,II),s1,TENM2
+Other,Glycidamide,475,s2,SLIT3
+Drug Therapy,Mechlorethamine,0.3,s1,LCP2
+Alkylating Agent,MMS,100,s1,RANBP17
+Other,"1,4-Benzoquinone",5,s3,SIMC1
+Other,Propylene,xide,s1,CLTB
+Heterocyclic Amine,PhIP,4,s5,CDHR2
+PAH,DBAC,5,s2,FAM193B
+PAH,BPDE,0.125,s1,COL23A1
+PAH,BaP,2,s3,CLK4
+Nitro-PAH,6-Nitrochrysene,50,s1,HNRNPH1
+Alkylating Agent,DMH,9,s3,MGAT4B
+Control,DMSO,ontrol,s1,GFPT2
+PAH,DBADE,0.109,s1,FLT4
+Other,MX,7,s1,TRIM41
+Nitro-PAH,2-Nitrofluorene,10,s1,GMDS
+Other,Acrylamide,9.5,s2,JARID2
+PAH,DBADE,0.109,s1,RBM24
+Nitro-PAH,3-NBA,0.025,s2,HDGFL1
+PAH,DBADE,0.109,s5,HIST1H4A
+Nitro-PAH,3-NBA,0.1,s4,HIST1H2BH
+PAH,BPDE,0.125,s1,BTN3A2
+ROS/NOS,Potassium,romate,s5,BTN2A2
+Drug Therapy,Cisplatin,12.5,s1,ZNF322
+Nitro-PAH,6-Nitrochrysene,12.5,s2,POM121L2
+Heterocyclic Amine,PhIP,4,s4,HIST1H4J
+Radiation,SSR,1.25,s5,ZSCAN9
+ROS/NOS,Potassium,romate,s3,TRIM27
+PAH,DBADE,0.109,s1,OR11A1
+Nitro-PAH,6-Nitrochrysene,50,s1,PPP1R11
+PAH,BPDE,0.125,s1,TRIM31
+Control,Media,ontrol,s2,RPP21
+Alkylating Agent,MNNG,0.75,s3,VARS2
+PAH,BaP,0.39,s3,SFTA2
+Alkylating Agent,DMH,11.6,s3,PRRC2A
+Metal,Potassium,hromate,s2,LY6G6C
+Aromatic Amine,Benzidine,200,s2,VARS
+Metal,Cobalt,II),s1,C4B
+Aromatic Amine,2-Naphthylamine,200,s3,TNXB
+PAH,DBADE,0.109,s6,TNXB
+Nitro-PAH,2-Nitrotoluene,4.6,s2,TNXB
+Nitro-PAH,"1,8-DNP",8,s2,TAP1
+Other,Acrolein,5,s2,RING1
+Other,Acrolein,5,s2,RING1
+PAH,DBA,75,s2,SLC26A8
+Nitro-PAH,"1,8-DNP",8,s3,DNAH8
+Aromatic Amine,Benzidine,200,s2,DNAH8
+Nitro-PAH,"1,8-DNP",8,s2,MED20
+Nitro-PAH,"1,8-DNP",8,s3,C6orf132
+PAH,DBA,75,s1,TRERF1
+Other,Propylene,xide,s1,TRERF1
+PAH,DBAC,5,s2,GLTSCR1L
+PAH,DBA,75,s1,PEX6
+Control,DMSO,ontrol,s2,KLC4
+Nitro-PAH,"1,8-DNP",8,s1,PTK7
+Nitro-PAH,"1,8-DNP",8,s2,ZNF318
+Nitro-PAH,6-Nitrochrysene,0.78,s2,XPO5
+Other,Glycidamide,475,s2,POLH
+Radiation,SSR,1.25,s6,CLIC5
+Nitro-PAH,6-Nitrochrysene,50,s1,MEP1A
+Aromatic Amine,o-Toluidine,14,s3,MEP1A
+Nitro-PAH,6-Nitrochrysene,50,s1,IL17F
+ROS/NOS,Peroxynitrite,30,s1,MLIP
+PAH,DBADE,0.109,s5,PTP4A1
+ROS/NOS,Potassium,romate,s4,LMBRD1
+Aromatic Amine,o-Anisidine,0.85,s1,COL19A1
+ROS/NOS,Potassium,romate,s3,COL19A1
+Radiation,SSR,1.25,s5,COL19A1
+Nitro-PAH,3-NBA,0.025,s1,DDX43
+PAH,DBADE,0.0313,s2,PHIP
+Nitro-PAH,6-Nitrochrysene,50,s2,ELOVL4
+Radiation,SSR,1.25,s4,UBE3D
+Nitro-PAH,6-Nitrochrysene,50,s2,NT5E
+Drug Therapy,Ellipticine,0.625,s1,CNR1
+Nitro-PAH,3-NBA,0.1,s3,ANKRD6
+Heterocyclic Amine,PhIP,3,s4,EPHA7
+Other,AAI,1.25,s1,KLHL32
+PAH,DBPDE,0.000625,s3,POU3F2
+PAH,5-Methylchrysene,1.6,s2,PRDM13
+Drug Therapy,Cyclophosphamide,18.75,s2,CEP57L1
+Drug Therapy,Cisplatin,3.125,s5,AK9
+Metal,Lead,II),s2,SLC22A16
+Nitro-PAH,2-Nitrofluorene,40,s1,KIAA1919
+Drug Therapy,Carboplatin,5,s1,REV3L
+Alkylating Agent,MNU,350,s2,TUBE1
+PAH,DBAC,5,s3,TRDN
+Other,AAI,1.25,s2,RSPO3
+PAH,BPDE,0.125,s3,CTAGE9
+PAH,DBADE,0.109,s5,SLC2A12
+Alkylating Agent,DMH,11.6,s1,ALDH8A1
+PAH,DBADE,0.109,s1,TNFAIP3
+Nitro-PAH,3-NBA,0.1,s3,KIAA1244
+Nitro-PAH,"1,8-DNP",0.125,s2,HIVEP2
+PAH,BPDE,0.125,s2,LTV1
+PAH,DBPDE,0.000625,s3,UTRN
+Aldehydes,Formaldehyde,120,s3,ADGB
+PAH,BPDE,0.125,s1,TAB2
+Control,H2O,ontrol,s1,SYNE1
+Drug Therapy,Semustine,700,s3,SYNE1
+PAH,DBPDE,0.000156,s3,VIP
+Nitro-PAH,3-NBA,0.1,s2,RGS17
+PAH,5-Methylchrysene,1.6,s1,TFB1M
+Alkylating Agent,ENU,400,s1,NOX3
+PAH,BPDE,0.125,s1,SYNJ2
+Metal,Potassium,hromate,s6,TAGAP
+Other,Propylene,xide,s2,IGF2R
+Drug Therapy,Semustine,150,s1,IGF2R
+Drug Therapy,Semustine,150,s1,MLLT4
+PAH,DBADE,0.109,s1,FRMD1
+PAH,DBADE,0.109,s6,SMOC2
+Alkylating Agent,DMH,9,s1,SUN1
+Nitro-PAH,"1,8-DNP",8,s1,GET4
+Alkylating Agent,ENU,400,s4,UNCX
+Nitro-PAH,3-NBA,0.1,s2,UNCX
+PAH,DBADE,0.0313,s1,UNCX
+PAH,DBA,75,s2,TMEM184A
+PAH,DBADE,0.0313,s1,ELFN1
+Nitro-PAH,3-NBA,0.1,s3,ELFN1
+PAH,BPDE,0.125,s1,LFNG
+Nitro-PAH,6-Nitrochrysene,50,s2,AMZ1
+PAH,DBADE,0.0313,s3,GNA12
+Other,Propylene,xide,s2,MMD2
+PAH,DBAC,5,s1,ACTB
+PAH,DBADE,0.109,s5,FSCN1
+Nitro-PAH,"1,8-DNP",8,s1,ZDHHC4
+PAH,BPDE,0.125,s1,NDUFA4
+Drug Therapy,Cisplatin,12.5,s1,VWDE
+Alkylating Agent,ENU,400,s1,AGR2
+PAH,BPDE,0.125,s1,IGF2BP3
+PAH,DBP,0.0313,s1,FAM221A
+Other,Propylene,xide,s3,CREB5
+Nitro-PAH,"1,6-DNP",0.09,s3,STARD3NL
+Alkylating Agent,MMS,100,s1,CDK13
+PAH,BaP,2,s3,MPLKIP
+Other,AAII,37.5,s6,SUGCT
+ROS/NOS,Peroxynitrite,30,s2,BLVRA
+Nitro-PAH,6-Nitrochrysene,50,s2,OGDH
+Other,MX,7,s2,ADCY1
+PAH,DBADE,0.109,s5,TNS3
+PAH,DBADE,0.109,s5,TNS3
+PAH,5-Methylchrysene,1.6,s1,PKD1L1
+Nitro-PAH,3-NBA,0.025,s3,PKD1L1
+Metal,Nickel,II),s2,GRB10
+PAH,DBA,75,s2,SEPT14
+Drug Therapy,Ellipticine,0.25,s2,CCT6A
+Aromatic Amine,"2,6-Dimethylaniline",11,s1,ZNF716
+Control,DMSO,ontrol,s3,ZNF679
+Control,Media,ontrol,s2,TPST1
+Radiation,Gamma,rradiation,s2,WBSCR28
+Alkylating Agent,DMH,11.6,s3,ELN
+Alkylating Agent,DMH,11.6,s3,CACNA2D1
+Control,DMSO,ontrol,s3,PCLO
+PAH,BaP,2,s2,PCLO
+PAH,DBPDE,0.000156,s1,GRM3
+PAH,DBPDE,0.000156,s3,CROT
+PAH,BPDE,0.125,s1,CROT
+Aromatic Amine,4-ABP,40,s2,ABCB4
+Alkylating Agent,ENU,400,s4,ZNF804B
+Radiation,SSR,1.25,s6,STEAP2
+Nitro-PAH,6-Nitrochrysene,50,s1,RBM48
+PAH,DBP,0.0313,s3,RBM48
+Radiation,SSR,1.25,s6,SAMD9
+Alkylating Agent,ENU,400,s4,DYNC1I1
+Control,DMSO,ontrol,s1,ATP5J2
+Drug Therapy,Temozolomide,200,s1,ZSCAN25
+PAH,BPDE,0.125,s2,ZKSCAN1
+Radiation,SSR,1.25,s4,MBLAC1
+PAH,DBADE,0.109,s6,PPP1R35
+Other,AFB1,0.25,s1,PCOLCE
+Nitro-PAH,6-Nitrochrysene,12.5,s3,TFR2
+PAH,DBPDE,0.000156,s1,GIGYF1
+Other,AAII,37.5,s6,GIGYF1
+Other,AAII,37.5,s6,GIGYF1
+PAH,DBADE,0.0313,s1,EPHB4
+Alkylating Agent,MNU,350,s3,MUC12
+Nitro-PAH,6-Nitrochrysene,12.5,s3,MUC17
+Control,H2O,ontrol,s2,MUC17
+PAH,BPDE,0.125,s2,MUC17
+PAH,BaP,0.39,s1,MUC17
+Alkylating Agent,DMS,0.078,s2,PNPLA8
+Drug Therapy,Ellipticine,0.125,s5,DOCK4
+PAH,BPDE,0.125,s1,FAM3C
+Alkylating Agent,DMH,11.6,s3,RNF133
+Radiation,SSR,1.25,s6,CCDC136
+PAH,DBADE,0.109,s5,FLNC
+Radiation,SSR,1.25,s4,IRF5
+Nitro-PAH,6-Nitrochrysene,50,s2,SMO
+Control,DMSO,ontrol,s2,AHCYL2
+Nitro-PAH,"1,8-DNP",8,s1,KLHDC10
+Control,DMSO,ontrol,s2,CPA1
+ROS/NOS,Potassium,romate,s5,MEST
+PAH,5-Methylchrysene,1.6,s3,LRGUK
+Nitro-PAH,"1,8-DNP",8,s2,ZC3HAV1
+PAH,DBA,75,s1,ZC3HAV1
+Other,MX,7,s4,HIPK2
+Other,Propylene,xide,s2,PRSS1
+Nitro-PAH,"1,8-DNP",8,s3,TRPV5
+Control,Media,ontrol,s4,CTAGE8
+PAH,DBP,0.0313,s3,PDIA4
+Nitro-PAH,3-NBA,0.025,s2,ZNF746
+Nitro-PAH,2-Nitrofluorene,40,s1,ZNF467
+Nitro-PAH,6-Nitrochrysene,50,s1,ZNF775
+PAH,5-Methylchrysene,1.6,s2,GIMAP6
+Nitro-PAH,"1,8-DNP",8,s2,GIMAP6
+Other,Acrolein,5,s1,GIMAP2
+PAH,DBPDE,0.000625,s3,AGAP3
+PAH,BPDE,0.125,s1,RNF32
+Radiation,SSR,1.25,s4,MNX1
+Aromatic Amine,4-ABP,40,s2,WDR60
+PAH,DBA,75,s1,KBTBD11
+Drug Therapy,Melphalan,1.5,s1,CSMD1
+PAH,DBC,1.5,s3,CSMD1
+Alkylating Agent,DMH,11.6,s2,MFHAS1
+PAH,DBA,75,s1,RP1L1
+Other,AAI,1.25,s1,GATA4
+Alkylating Agent,DMH,11.6,s2,GATA4
+Other,AFB1,0.25,s2,DLC1
+Drug Therapy,Ellipticine,0.375,s2,SGCZ
+Nitro-PAH,6-Nitrochrysene,50,s2,CSGALNACT1
+Radiation,SSR,1.25,s4,DMTN
+Control,DMSO,ontrol,s1,PHYHIP
+PAH,DBADE,0.109,s6,R3HCC1
+PAH,BPDE,0.125,s1,ADAM7
+PAH,5-Methylchrysene,1.6,s1,CDCA2
+PAH,5-Methylchrysene,1.6,s2,DPYSL2
+PAH,BPDE,0.125,s3,STMN4
+Other,AAI,1.25,s3,STMN4
+Control,DMSO,ontrol,s1,NUGGC
+PAH,5-Methylchrysene,1.6,s1,KCNU1
+Other,Furan,100,s1,RAB11FIP1
+Other,Furan,100,s3,ADRB3
+Drug Therapy,Temozolomide,200,s1,FGFR1
+PAH,DBADE,0.0313,s1,FNTA
+PAH,DBADE,0.109,s5,PRKDC
+PAH,DBADE,0.109,s5,PRKDC
+PAH,DBADE,0.0313,s2,PXDNL
+Control,DMSO,ontrol,s1,RB1CC1
+Heterocyclic Amine,PhIP,4,s5,RP1
+PAH,DBA,75,s1,XKR4
+Other,AAI,1.25,s3,TGS1
+Nitrosamine,N-Nitrosopyrrolidine,50,s2,TGS1
+Nitro-PAH,"1,8-DNP",8,s2,CHD7
+Radiation,SSR,1.25,s4,EYA1
+PAH,DBADE,0.0313,s2,TRPA1
+PAH,DBADE,0.0313,s2,UBE2W
+Drug Therapy,Temozolomide,200,s3,ZFHX4
+Nitro-PAH,3-NBA,0.1,s4,ZFHX4
+PAH,5-Methylchrysene,1.6,s1,ZFHX4
+ROS/NOS,Peroxynitrite,30,s2,CPNE3
+Other,Methyleugenol,1.25,s2,RBM12B
+Drug Therapy,Ellipticine,0.625,s1,KIAA1429
+Aromatic Amine,Benzidine,900,s1,KIAA1429
+Metal,Potassium,hromate,s2,KIAA1429
+Other,Acrylamide,9.5,s2,DPY19L4
+Other,Catechol,5.5,s2,TSPYL5
+Other,AAI,1.25,s1,VPS13B
+Metal,Nickel,II),s2,VPS13B
+PAH,DBADE,0.109,s6,FZD6
+Alkylating Agent,MNU,350,s3,DCSTAMP
+PAH,DBP,0.0313,s2,ANGPT1
+Heterocyclic Amine,PhIP,3,s4,EIF3E
+Nitro-PAH,6-Nitrochrysene,0.78,s2,KCNV1
+Heterocyclic Amine,PhIP,3,s4,CSMD3
+Other,Glycidamide,475,s6,ZHX2
+Drug Therapy,Cisplatin,3.125,s5,ZHX2
+Alkylating Agent,ENU,400,s4,GSDMC
+Alkylating Agent,MNNG,0.75,s3,PHF20L1
+Metal,Sodium,meta),s5,ZFAT
+Drug Therapy,Mechlorethamine,0.3,s1,PTK2
+Nitro-PAH,"1,8-DNP",0.125,s3,LY6K
+PAH,DBADE,0.0313,s2,EEF1D
+PAH,BPDE,0.125,s3,MAPK15
+Aromatic Amine,Benzidine,200,s3,FAM83H
+Heterocyclic Amine,PhIP,3,s2,FAM83H
+Other,Glycidamide,475,s2,SPATC1
+Radiation,SSR,1.25,s5,MAF1
+PAH,BPDE,0.125,s3,TONSL
+Nitro-PAH,"1,8-DNP",8,s1,KIFC2
+PAH,DBADE,0.109,s6,LRRC14
+Nitro-PAH,6-Nitrochrysene,50,s2,ZNF34
+Alkylating Agent,ENU,400,s1,KANK1
+Alkylating Agent,DMH,11.6,s3,KANK1
+PAH,5-Methylchrysene,1.6,s1,SPATA6L
+Drug Therapy,Cisplatin,12.5,s3,DENND4C
+PAH,BPDE,0.125,s1,DENND4C
+Nitro-PAH,"1,6-DNP",0.09,s1,IFNA2
+Nitro-PAH,6-Nitrochrysene,0.78,s2,IFNA1
+Aromatic Amine,Benzidine,200,s1,TUSC1
+PAH,DBPDE,0.000625,s3,TOPORS
+Aromatic Amine,4-ABP,300,s2,TAF1L
+Nitro-PAH,6-Nitrochrysene,12.5,s2,TAF1L
+Nitro-PAH,6-Nitrochrysene,50,s2,NFX1
+PAH,BaP,0.39,s1,ARID3C
+Other,Propylene,xide,s2,GBA2
+Alkylating Agent,DMS,0.078,s3,OR2S2
+Aromatic Amine,Benzidine,200,s3,OR2S2
+PAH,DBA,75,s2,RECK
+PAH,DBA,75,s2,RECK
+Nitro-PAH,2-Nitrofluorene,40,s2,CLTA
+Nitro-PAH,2-Nitrofluorene,40,s2,TRMT10B
+ROS/NOS,Potassium,romate,s4,ANKRD20A4
+Alkylating Agent,DES,0.938,s3,CBWD5
+Drug Therapy,Cisplatin,12.5,s1,TRPM3
+Nitro-PAH,6-Nitrochrysene,50,s2,PCSK5
+Nitro-PAH,"1,8-DNP",8,s1,GNAQ
+PAH,DBA,75,s3,HNRNPK
+Radiation,SSR,1.25,s6,ZCCHC6
+Alkylating Agent,DMH,11.6,s2,FAM120AOS
+Alkylating Agent,DMH,11.6,s2,CDC14B
+Nitrosamine,N-Nitrosopyrrolidine,50,s2,FOXE1
+Nitro-PAH,6-Nitrochrysene,0.78,s1,TRIM14
+Control,MeOH,ontrol,s2,STX17
+Nitro-PAH,"1,8-DNP",8,s1,INVS
+PAH,5-Methylchrysene,1.6,s3,LPPR1
+PAH,DBADE,0.0313,s2,OR13C5
+Other,AAI,1.25,s1,CTNNAL1
+Nitro-PAH,3-NBA,0.1,s3,PALM2-AKAP2
+ROS/NOS,Potassium,romate,s4,SVEP1
+Drug Therapy,Temozolomide,200,s2,KIAA0368
+PAH,DBADE,0.0313,s1,DNAJC25
+Metal,Sodium,meta),s5,C9orf84
+PAH,DBPDE,0.000625,s3,KIAA1958
+PAH,5-Methylchrysene,1.6,s2,ZFP37
+PAH,BaP,2,s1,AKNA
+Alkylating Agent,DMH,11.6,s1,AKNA
+Nitro-PAH,"1,8-DNP",8,s2,TNC
+Alkylating Agent,ENU,400,s4,TLR4
+Nitro-PAH,6-Nitrochrysene,0.78,s2,CDK5RAP2
+Other,AAI,1.25,s1,MEGF9
+Alkylating Agent,DES,0.938,s2,GSN
+PAH,BPDE,0.125,s3,TTLL11
+PAH,DBADE,0.109,s1,TTLL11
+Nitro-PAH,6-Nitrochrysene,50,s2,OR1J4
+Nitro-PAH,3-NBA,0.025,s1,RC3H2
+PAH,DBADE,0.0313,s2,CRB2
+PAH,DBADE,0.109,s6,FAM129B
+PAH,DBADE,0.0313,s3,PTRH1
+Control,MeOH,ontrol,s2,COQ4
+Metal,Nickel,II),s2,ODF2
+PAH,BPDE,0.125,s3,PKN3
+Radiation,SSR,1.25,s6,DOLPP1
+Nitro-PAH,"1,8-DNP",8,s2,GPR107
+Alkylating Agent,ENU,400,s4,ABL1
+Other,Styrene,xide,s5,NTNG2
+Control,MeOH,ontrol,s3,AK8
+PAH,BPDE,0.125,s3,SURF6
+PAH,BPDE,0.125,s1,ADAMTSL2
+Other,AAII,37.5,s6,WDR5
+PAH,DBADE,0.109,s5,C9orf62
+Other,AAI,1.25,s2,PAEP
+Heterocyclic Amine,PhIP,4,s5,KCNT1
+Drug Therapy,Cyclophosphamide,18.75,s2,C9orf69
+PAH,DBPDE,0.000625,s1,CARD9
+Radiation,SSR,1.25,s4,TMEM141
+Drug Therapy,Ellipticine,0.625,s1,C9orf172
+Alkylating Agent,DES,0.938,s2,MAMDC4
+PAH,DBADE,0.109,s6,UAP1L1
+PAH,BPDE,0.125,s1,RNF208
+Nitro-PAH,3-NBA,0.1,s2,NRARP
